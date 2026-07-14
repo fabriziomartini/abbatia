@@ -34,13 +34,13 @@ Da lì in poi il racconto fissa dettagli precisi, da trattare come canone:
 - Una **loggia/studio dell'Abate**, da cui osserva la valle.
 - Un **torrente** nei pressi delle mura (menzionato nel racconto del risotto ai porcini, 13-14/7: "in lontananza si udiva il mormorio del torrente").
 
-## 5. Il villaggio a valle (proposta nuova — da confermare)
+## 5. Il villaggio a valle: **Cuccurano** (confermato dall'utente)
 
-Il 14/7 Lorenzo Cordini ha descritto genericamente "una zona impervia sopra una valle dove si trova il villaggio con il mercato al quale si recano Fra Cordino e Fra Martino a far provviste" (coerente con l'episodio del mercato per il sale del 25/3). **Il villaggio non ha ancora un nome nel canone.** Propongo, solo come base di discussione, **Selvapiana** — nome plausibile per un borgo di mercato casentinese, mai attestato nella realtà così da non confliggere con un luogo vero, ma coerente col paesaggio (radura tra i boschi). Da confermare, cambiare o scartare liberamente.
+Il 14/7 Lorenzo Cordini ha descritto genericamente "una zona impervia sopra una valle dove si trova il villaggio con il mercato al quale si recano Fra Cordino e Fra Martino a far provviste" (coerente con l'episodio del mercato per il sale del 25/3). Il villaggio non aveva un nome nel canone: si è scelto **Cuccurano** — nome dal suono buffo e un po' rustico, perfetto per un borgo di mercato dove i confratelli vanno a contrattare sale e grano. (Nota: esiste un'omonima piccola frazione reale nei pressi di Fano, nelle Marche — tutt'altra zona, nessuna sovrapposizione con la geografia del Casentino.) È il paese dove i confratelli scendono per le provviste e dove si tiene il mercato.
 
-## 6. Il "locus amoenus" dell'Abate (altrove, non l'Abbatīa stessa)
+## 6. Il "locus amoenus" dell'Abate: il Lago di Equi Terme (confermato dall'utente)
 
-Sempre il 14/7, Andreas Pieralli ha menzionato che l'Abate Elfo trascorre "3 giorni di quiete e ristoro con la sua famiglia" in un *locus amoenus* vicino al **Lago di Gramolazzo**, non lontano da **Equi Terme** — che geograficamente è Garfagnana/Lunigiana (provincia di Massa-Carrara), non Casentino: un paio di vallate più a nord-ovest. Per non creare una contraddizione geografica, propongo di trattarlo esplicitamente **come una meta di villeggiatura separata dall'Abbatīa**, raggiunta con "qualche giorno di viaggio" — coerente con lo stile già stabilito in cui i confratelli intraprendono pellegrinaggi verso luoghi lontani (Bologna, Kolín, l'Argentina). Non è quindi un'incoerenza da correggere, ma un'altra tappa della geografia allargata dell'Abbatīa, al pari di quelle già narrate.
+Il 14/7, Andreas Pieralli aveva menzionato che l'Abate Elfo trascorre "3 giorni di quiete e ristoro con la sua famiglia" in un *locus amoenus* vicino al Lago di Gramolazzo, non lontano da Equi Terme (Garfagnana/Lunigiana, provincia di Massa-Carrara — un paio di vallate a nord-ovest del Casentino). Confermato come luogo di villeggiatura dell'Abate: **il Lago di Equi Terme**, raggiunto con "qualche giorno di viaggio" dall'Abbatīa — coerente con lo stile già stabilito in cui i confratelli intraprendono pellegrinaggi verso luoghi lontani (Bologna, Kolín, l'Argentina). Non è la sede dell'Abbatīa, ma un'altra tappa della sua geografia allargata, al pari di quelle già narrate.
 
 ## 7. Epoca e stile (già canone, qui solo riepilogato)
 
@@ -53,5 +53,5 @@ Medioevo imprecisato e volutamente "elastico": intrusioni anacronistiche (telefo
 - **Paesaggio**: valle remota, boschi neri di abeti e faggi, pendii battuti dal vento, clima rigido.
 - **L'Abbatīa**: su un passo di montagna, mura di pietra grigia, torri quadrate, portone di quercia e ferro nero, mai violata da predoni.
 - **Dedica**: Antica Abbatīa di San Gineprio.
-- **Il villaggio di mercato in valle**: senza nome fisso in chat, proposta di lavoro "Selvapiana".
-- **La meta di villeggiatura dell'Abate**: nei pressi del Lago di Gramolazzo, Garfagnana — luogo diverso e lontano dall'Abbatīa, non lo stesso posto.
+- **Il villaggio di mercato in valle**: Cuccurano, dove i confratelli scendono per le provviste.
+- **La meta di villeggiatura dell'Abate**: il Lago di Equi Terme (Garfagnana) — luogo diverso e lontano dall'Abbatīa, non lo stesso posto.
