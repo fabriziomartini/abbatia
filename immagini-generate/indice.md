@@ -52,7 +52,6 @@ La colonna **"Personaggio raffigurato"** è stata aggiunta incrociando indizi vi
 | 20/6/26 | IMG-20260620-WA0001.jpg | Fabrizio Martini — "il golpe immaginario" di Fra Martino, 00:21 | scherzo fuori-canone su un "colpo di stato" | Fra Martino (confidenza: media) |
 | 20/6/26 | IMG-20260620-WA0002.jpg | Lorenzo Cordini — riferimento al "Confortatorio di Mantova", 07:33 | | Fra Cordino (confidenza: alta) |
 | 19-20/6/26 | IMG-20260620-WA0004.jpg | Fabrizio Martini (Fra Martino) — Fra Cordino nel laghetto per il caldo, 19/6 08:35 | | Fra Cordino (confidenza: alta) |
-| 29/6/26 | IMG-20260629-WA0013.jpg | (nessun racconto diretto individuato) | DUBBIA — uomo in canottiera in borgo contemporaneo, nessun elemento monastico | Non identificato (confidenza: bassa) |
 | 7/7/26 | IMG-20260707-WA0012.jpg | Fabrizio Martini (Fra Martino) — lavanda dei piedi per una partenza, 17:02 | | Gruppo (Abate Elfo, Fra Cordino) (confidenza: alta) |
 | 7/7/26 | IMG-20260707-WA0015.jpg | Fabrizio Martini (Fra Martino) — la caduta del kolínko, 17:15 | | Gruppo (Fra Cordino, Fra Martino) (confidenza: alta) |
 | 10/7/26 | IMG-20260710-WA0001.jpg | Fabrizio Martini (Fra Martino) — pellegrinaggio a "Embajador Martini", Argentina, 11:33 | | Fra Martino (confidenza: alta) |
@@ -62,8 +61,8 @@ La colonna **"Personaggio raffigurato"** è stata aggiunta incrociando indizi vi
 ## Riepilogo
 
 - **File esaminati**: 120 (tutti gli `IMG-*.jpg` in `chat/`)
-- **Copiati come "arte generata coerente"**: 50 (58 classificate inizialmente; 8 rimosse dall'utente: 2 perché non generate da lui — IMG-20260403-WA0010.jpg, IMG-20260604-WA0001.jpg — e 6 perché scene di gruppo/fantastiche senza personaggi riconoscibili con certezza — IMG-20260319-WA0007.jpg, IMG-20260326-WA0000.jpg, IMG-20260329-WA0001.jpg, IMG-20260331-WA0013.jpg, IMG-20260331-WA0015.jpg, IMG-20260404-WA0005.jpg)
-- **Scartati** (foto reali, selfie, screenshot, meme, vignette, contenuti politici/non pertinenti, o rimossi dall'utente): 70
+- **Copiati come "arte generata coerente"**: 49 (58 classificate inizialmente; 9 rimosse dall'utente: 2 perché non generate da lui — IMG-20260403-WA0010.jpg, IMG-20260604-WA0001.jpg — 6 perché scene di gruppo/fantastiche senza personaggi riconoscibili con certezza — IMG-20260319-WA0007.jpg, IMG-20260326-WA0000.jpg, IMG-20260329-WA0001.jpg, IMG-20260331-WA0013.jpg, IMG-20260331-WA0015.jpg, IMG-20260404-WA0005.jpg — e 1 fuori tema — IMG-20260629-WA0013.jpg)
+- **Scartati** (foto reali, selfie, screenshot, meme, vignette, contenuti politici/non pertinenti, o rimossi dall'utente): 71
 - **Segnalati DUBBIA** tra i copiati rimasti: 7 (WA0319-0014, WA0319-0015, WA0319-0040, WA0403-0006, WA0404-0007, WA0405-0010, WA0405-0011)
 
 Esempi tipici di scarto: screenshot di articoli/commenti Facebook, foto reali di grigliate/gite del gruppo di amici, vignette dialettali o politiche (es. `IMG-20260511-WA0003.jpg`, commento Facebook su politica ceca; `IMG-20260620-WA0000.jpg`, vignetta satirica su scuola/religione), meme, screenshot di mappe/chat, copertine di libri o film reali (es. "Il nome della rosa" 1986), foto di luoghi reali non generati (Sacra di San Michele, Klášterní šenk di Praga).
@@ -72,11 +71,11 @@ Esempi tipici di scarto: screenshot di articoli/commenti Facebook, foto reali di
 
 - **Confidenza alta**: 25 immagini (21 iniziali + 4 confermate dall'utente: WA0319-0038, WA0404-0007, WA0404-0013, WA0531-0009)
 - **Confidenza media**: 22 immagini
-- **Confidenza bassa**: 1 immagine (WA0629-0013, ancora da verificare)
+- **Confidenza bassa**: 0 immagini
 - **Non identificato**: 0 immagini
 - **Scena/ambientazione senza personaggio**: 2 immagini
 
-Le altre 6 immagini a bassa confidenza (gruppi di monaci non distinguibili, scene fantastiche/oniriche) sono state eliminate dall'utente il 14/7/26.
+Le 7 immagini a bassa confidenza/non identificate (gruppi di monaci non distinguibili, scene fantastiche/oniriche, un soggetto fuori tema) sono state eliminate dall'utente il 14/7/26.
 
 ### Pattern visivi ricorrenti individuati
 
@@ -84,11 +83,9 @@ Le altre 6 immagini a bassa confidenza (gruppi di monaci non distinguibili, scen
 - **Abate Elfo** indossa quasi sempre un **saio/tonaca nera** (unico tra i protagonisti fissi) ed è spesso in ambientazioni di studio/biblioteca/loggia; in almeno due immagini (WA0319-0027, WA0323-0038) compare persino un cartellino/targa esplicita con scritto "ABATE ELFO", che ha reso quei casi certezze e ha aiutato a calibrare il resto.
 - Un monaco ricorrente con **occhiali da sole scuri** in ambienti di biblioteca/scriptorium (WA0319-0030, WA0322-0024) è stato associato a **Padre Pier Poulet** per coerenza di contesto, ma non ha un tratto fisico descritto esplicitamente in `cronista.md` — è il pattern meno solido tra quelli "ad alta ricorrenza".
 - **Il Solitario Acidasco** è riconoscibile dal mantello logoro color terra (mai un saio) e da ambientazioni esterne isolate (bosco, frutteto) — le due immagini che lo ritraggono sono tra le più sicure in assoluto.
-- Le immagini con **due controfigure comiche fuori-canone** ("Fra Crodino", l'uomo in canottiera di WA0629-0013, il riferimento a Hildegard von Bingen) sono probabilmente scherzi/riferimenti della chat non legati a personaggi fissi dell'Abbatia.
+- L'immagine con la controfigura comica fuori-canone "Fra Crodino" (WA0711-0015) resta l'unico riferimento scherzoso non legato a un personaggio fisso, mantenuto perché comunque affiancato da Fra Cordino.
 
 ## Casi dubbi da verificare con l'utente
 
-Seconda revisione dell'utente (14/7/26): confermati Gineprone (WA0319-0038), Abate Elfo+Fra Martino (WA0404-0007), Abate Elfo (WA0404-0013), Conte Bonifacio (WA0531-0009); eliminate 8 immagini (2 non generate dall'utente, 6 scene di gruppo/fantastiche non risolvibili con certezza — vedi elenco in "Riepilogo"). Resta un solo caso aperto:
-
-- **IMG-20260629-WA0013.jpg** — uomo in canottiera in un borgo contemporaneo, nessun elemento monastico: probabilmente estraneo al canone dell'Abbatia (scherzo/fuori tema), da confermare se tenerla o eliminarla.
+Nessuno. Seconda revisione dell'utente completata il 14/7/26: confermati Gineprone (WA0319-0038), Abate Elfo+Fra Martino (WA0404-0007), Abate Elfo (WA0404-0013), Conte Bonifacio (WA0531-0009); eliminate 9 immagini in totale (2 non generate dall'utente, 6 scene di gruppo/fantastiche non risolvibili con certezza, 1 fuori tema — vedi elenco in "Riepilogo"). Tutte le 49 immagini rimaste hanno un personaggio raffigurato identificato con confidenza almeno media.
 
