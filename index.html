@@ -5,6 +5,16 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Antica Abbatīa di San Gineprio</title>
 <meta name="description" content="Le cronache, la geografia e i personaggi dell'Antica Abbatīa di San Gineprio, nel Casentino.">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Antica Abbatīa di San Gineprio">
+<meta property="og:description" content="Le cronache, la geografia e i personaggi dell'Antica Abbatīa di San Gineprio, nel Casentino.">
+<meta property="og:image" content="https://fabriziomartini.github.io/abbatia/mappe/veduta-generale-abbazia.png">
+<meta property="og:url" content="https://fabriziomartini.github.io/abbatia/">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Antica Abbatīa di San Gineprio">
+<meta name="twitter:description" content="Le cronache, la geografia e i personaggi dell'Antica Abbatīa di San Gineprio, nel Casentino.">
+<meta name="twitter:image" content="https://fabriziomartini.github.io/abbatia/mappe/veduta-generale-abbazia.png">
 <style>
 :root{
   --ink:#2b2016;
@@ -223,10 +233,54 @@ footer{
 }
 footer a{color:var(--vellum-edge);}
 
+/* Cronache */
+.cronache-list{display:flex;flex-direction:column;gap:1.8rem;}
+.cronaca{
+  background:var(--vellum-panel);
+  border:1px solid var(--vellum-edge);
+  padding:1.6rem 1.8rem;
+}
+.cronaca h3{
+  font-size:.95rem;
+  font-variant-caps:small-caps;
+  letter-spacing:.03em;
+  color:var(--rubric);
+  margin-bottom:.2rem;
+}
+.cronaca .meta{font-size:.72rem;color:var(--ink-soft);letter-spacing:.03em;margin-bottom:.9rem;}
+.cronaca p{margin:0 0 .9rem;font-size:.98rem;}
+.cronaca p:last-of-type{margin-bottom:0;}
+.cronaca p.lettrina::first-letter{
+  float:left;
+  font-size:2.6em;
+  line-height:.78;
+  padding:.03em .09em 0 0;
+  font-weight:700;
+  color:var(--rubric);
+}
+.cronache-more{font-size:.85rem;color:var(--ink-soft);margin-top:1.6rem;}
+
+/* Back to top */
+.back-to-top{
+  position:fixed;
+  right:1.2rem;bottom:1.2rem;
+  width:44px;height:44px;
+  border-radius:50%;
+  background:var(--rubric);
+  color:#f2e7cf;
+  display:flex;align-items:center;justify-content:center;
+  text-decoration:none;
+  font-size:1.1rem;
+  box-shadow:0 6px 18px rgba(0,0,0,.4);
+  z-index:15;
+}
+
 @media (max-width:760px){
   .territorio-grid, .tavole-grid{grid-template-columns:1fr;}
-  .nav ul{gap:.9rem;}
+  .nav .wrap{flex-wrap:wrap;gap:.6rem;padding:.8rem 1.5rem;}
+  .nav ul{width:100%;justify-content:center;flex-wrap:wrap;gap:.5rem 1rem;}
   .nav a{font-size:.78rem;}
+  .back-to-top{width:38px;height:38px;font-size:1rem;}
 }
 </style>
 </head>
@@ -238,6 +292,7 @@ footer a{color:var(--vellum-edge);}
     <ul>
       <li><a href="#territorio">Territorio</a></li>
       <li><a href="#tavole">Tavole</a></li>
+      <li><a href="#cronache">Cronache</a></li>
       <li><a href="#protagonisti">Protagonisti</a></li>
       <li><a href="#ospiti">Ospiti</a></li>
       <li><a href="#gioco">Il Gioco</a></li>
@@ -288,6 +343,35 @@ footer a{color:var(--vellum-edge);}
         <figcaption><strong>Tavola IV.</strong> Il Chiostro.</figcaption>
       </figure>
     </div>
+  </div>
+</section>
+
+<section id="cronache">
+  <div class="wrap on-dark">
+    <p class="kicker">Estratti</p>
+    <h2>Le Cronache</h2>
+    <p class="lede">Tre frammenti, tra i tanti nati dal racconto collettivo dell'Abbatīa.</p>
+    <div class="cronache-list">
+      <article class="cronaca">
+        <h3>L'Antica Abbatīa di San Gineprio</h3>
+        <p class="meta">26 maggio</p>
+        <p class="lettrina">Nel cuore di una valle remota, stretta tra boschi neri di abeti e pendii battuti dal vento, sorgeva l'Antica Abbatīa di San Gineprio. Da secoli le sue mura di pietra grigia dominavano il passo, immobili come una montagna scolpita dalla mano di Dio. I contadini dei villaggi vicini dicevano che nessun predone fosse mai riuscito a violarne le porte.</p>
+        <p>L'Abbatīa non era sempre stata così vasta e sicura. I più anziani ricordavano ancora il tempo delle due casette di legno sorte accanto al torrente, quando i confratelli vivevano quasi come eremiti tra nebbia e silenzio. Poi erano venute la palizzata, le prime torri di guardia, il magazzino in pietra e infine le grandi mura che ora cingevano il piccolo borgo monastico. Ogni pietra era stata sollevata dalle mani dei monaci e dei contadini della valle.</p>
+      </article>
+      <article class="cronaca">
+        <h3>Il Solitario Acidasco e i Pietrosi del Maribor</h3>
+        <p class="meta">31 marzo – 1 aprile</p>
+        <p class="lettrina">Dall'ombra del vecchio leccio è emerso il Solitario Acidasco. Secco, avvolto nel suo mantello logoro che sapeva di polvere balcanica e aceto, osservava il lavoro con labbra strette. «Scavi per trovare il tesoro o per seppellire la tua intelligenza, Gineprone?» sibilò, la voce come un rametto che si spezza.</p>
+        <p>«C'è un solo rimedio,» proseguì, estraendo dalla bisaccia una manciata di sassi grigi e piatti. «Questi sono i "Pietrosi del Maribor". Benedetti dal freddo del nord.» Gineprone, con la solennità di chi salva un'anima, consegnò all'Acidasco l'intera forma di pecorino affidatagli per il sostentamento dei muratori. L'Acidasco fece sparire il formaggio sotto il mantello e lasciò cadere i sassi comuni nel fango: la santità del lavoro manuale, gabbata dalla scaltrezza della fame terrena.</p>
+      </article>
+      <article class="cronaca">
+        <h3>Cucinare è un'opera di carità</h3>
+        <p class="meta">13–14 luglio</p>
+        <p class="lettrina">«Che cosa manca?» domandò il vecchio monaco, dopo aver invitato Fra Martino ad assaggiare il risotto. Fra Martino rifletté a lungo, ma non seppe rispondere. «Nulla. E proprio questo è il segreto,» sorrise il maestro. «La buona cucina monastica non cerca di aggiungere sempre qualcosa. Cerca piuttosto di togliere ciò che è superfluo, lasciando parlare gli ingredienti che il Signore ci ha donato.»</p>
+        <p>«Da lui,» concluse Fra Martino tornando con lo sguardo alla pentola che sobbolliva nell'Abbatīa di San Gineprio, «non imparai soltanto una ricetta. Imparai che cucinare è un'opera di carità. Ogni piatto ben preparato può essere una forma di preghiera.»</p>
+      </article>
+    </div>
+    <p class="cronache-more">Queste sono tre delle decine di cronache raccolte. <a href="https://github.com/fabriziomartini/abbatia/blob/main/cronache/racconti-estratti.md">Leggi l'archivio completo</a> nel repository.</p>
   </div>
 </section>
 
@@ -394,6 +478,8 @@ footer a{color:var(--vellum-edge);}
     Nata da una chat WhatsApp reale tra amici. &middot; <a href="https://github.com/fabriziomartini/abbatia">Il repository su GitHub</a>
   </div>
 </footer>
+
+<a class="back-to-top" href="#top" aria-label="Torna in cima alla pagina">↑</a>
 
 </body>
 </html>
