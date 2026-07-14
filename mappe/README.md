@@ -40,7 +40,7 @@ Numerazione di riferimento: Tavola I = mappa regionale (`il-casentino.png`), Tav
 Hand-illustrated antique parchment illustration plate, sepia ink line work with light watercolor wash, aged-manuscript engraving style matching the existing Abbatīa regional map and floor plan: foxed vellum texture, ink hatching, ornate decorative border with light corner flourishes. CRITICAL: every word of text must be correct standard Italian, perfectly spelled, proofread mentally before rendering, zero English words, zero misspellings, zero stray accent marks. A title cartouche at the top reads 'TAVOLA [N] — [TITOLO]'. If the name 'Abbatīa' appears anywhere, spell it letter by letter: capital A, b, b, a, t, then a lowercase i with a single straight horizontal macron bar above it (never capitalized, never diaeresis dots), then a. [SOGGETTO E DETTAGLI SPECIFICI QUI]. Warm sepia, faded olive-grey and muted ochre watercolor tones only, aged paper stains, slightly torn edges, elegant engraving style, not photorealistic.
 ```
 
-Sotto, le tre tavole già finalizzate (template + soggetto uniti), pronte da incollare così come sono, da salvare come `facciata-chiesa.png`, `chiostro.png`, `veduta-generale.png`.
+Sotto, le tre tavole già finalizzate (template + soggetto uniti) e **generate** (`facciata-chiesa-abbaziale.png`, `chiostro.png`, `veduta-generale-abbazia.png`), tutte con ortografia corretta al primo tentativo.
 
 **Tavola III — Facciata della Chiesa Abbaziale** (elevazione frontale piatta, non planimetria, non 3D):
 
