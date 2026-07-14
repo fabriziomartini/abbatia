@@ -1,6 +1,6 @@
 # Indice delle immagini generate
 
-58 immagini selezionate su 120 file `IMG-*.jpg` presenti in `chat/`, come arte/ritratti coerenti con lo stile "realismo fotografico cinematografico, cupo e medievale" del progetto Abbatia (vedi criteri in `prompts/cronista.md`). Gli originali restano invariati in `chat/`; qui sono copie. Le immagini segnalate **DUBBIA** sono state incluse per sicurezza (secondo le istruzioni) ma hanno elementi che le rendono meno certe: stile a fumetto anziché fotorealistico, possibili foto reali stilizzate, o soggetti senza elementi monastici espliciti.
+56 immagini selezionate su 120 file `IMG-*.jpg` presenti in `chat/`, come arte/ritratti coerenti con lo stile "realismo fotografico cinematografico, cupo e medievale" del progetto Abbatia (vedi criteri in `prompts/cronista.md`). Gli originali restano invariati in `chat/`; qui sono copie. Le immagini segnalate **DUBBIA** sono state incluse per sicurezza (secondo le istruzioni) ma hanno elementi che le rendono meno certe: stile a fumetto anziché fotorealistico, possibili foto reali stilizzate, o soggetti senza elementi monastici espliciti.
 
 Ordinate cronologicamente per data ripresa dal nome file (`IMG-AAAAMMGG-WA####.jpg`). Dove il racconto collegato è stato individuato nella fase 1 (vedi `cronache/racconti-estratti.md`), è indicato con data/mittente/personaggio.
 
@@ -20,7 +20,7 @@ La colonna **"Personaggio raffigurato"** è stata aggiunta incrociando indizi vi
 | 19/3/26 | IMG-20260319-WA0029.jpg | Fabrizio Martini — ritratti donati alla comunità, 16:06 | | Fra Cordino (confidenza: alta) |
 | 19/3/26 | IMG-20260319-WA0030.jpg | Fabrizio Martini — ritratti donati alla comunità, 16:06 | | Padre Pier Poulet (confidenza: media) |
 | 19/3/26 | IMG-20260319-WA0037.jpg | Fabrizio Martini (Fra Martino) — al porcarium, 20/3 03:14 | | Fra Martino (confidenza: alta) |
-| 19/3/26 | IMG-20260319-WA0038.jpg | Fabrizio Martini — Gineprone scava il laghetto, 18:09 | | Non identificato (confidenza: bassa) |
+| 19/3/26 | IMG-20260319-WA0038.jpg | Fabrizio Martini — Gineprone scava il laghetto, 18:09 | | Gineprone (confidenza: alta, confermato dall'utente) |
 | 19/3/26 | IMG-20260319-WA0040.jpg | Andreas Pieralli — mappa/pianta dell'Abbatia, 19:07 | DUBBIA — mappa in stile pergamena, non un ritratto | Scena/ambientazione (nessun personaggio riconoscibile) |
 | 20/3/26 | IMG-20260320-WA0008.jpg | Andreas Pieralli — facciata dell'abbazia, 14:21 | | Scena/ambientazione (nessun personaggio riconoscibile) |
 | 20/3/26 | IMG-20260320-WA0012.jpg | Fabrizio Martini (Fra Martino) — erbe curative, 14:48 | | Fra Martino (confidenza: media) |
@@ -45,18 +45,16 @@ La colonna **"Personaggio raffigurato"** è stata aggiunta incrociando indizi vi
 | 2/4/26 | IMG-20260402-WA0001.jpg | Fabrizio Martini (Fra Martino) — la lavanda dei piedi (Mandatum), 09:43 | | Gruppo (Abate Elfo, Fra Cordino, Padre Pier Poulet) (confidenza: media) |
 | 2/4/26 | IMG-20260402-WA0003.jpg | Fabrizio Martini — processione/Via Crucis, 10:51 | | Fra Cordino (confidenza: media) |
 | 3/4/26 | IMG-20260403-WA0006.jpg | Fabrizio Martini (Fra Martino) — arrivo di Don Massimetto Catrame, 14:22 | DUBBIA — tono più comico/moderno | Don Massimetto Catrame (confidenza: alta) |
-| 3/4/26 | IMG-20260403-WA0010.jpg | Andreas Pieralli — cornice narrativa su Hildegard von Bingen, 20:41 | | Non identificato (confidenza: bassa) — riferimento storico esterno al canone (Hildegard von Bingen), non un personaggio dell'Abbatia |
 | 4/4/26 | IMG-20260404-WA0000.jpg | Andreas Pieralli — episodio del "bidet", Fra Cordino nella cripta, 20:54 | | Gruppo (Abate Elfo, Fra Cordino) (confidenza: media) |
 | 4/4/26 | IMG-20260404-WA0005.jpg | Andreas Pieralli — Fra Cordino trattenuto per il pellegrinaggio a Kolín, 10:31 | | Gruppo (Fra Cordino, monaco non identificato) (confidenza: bassa) |
-| 4/4/26 | IMG-20260404-WA0007.jpg | Fabrizio Martini (Fra Martino) — pellegrinaggio verso Kolín, 12:19 | DUBBIA — potrebbe essere foto reale in costume | Gruppo (Abate Elfo, Fra Martino) (confidenza: bassa) |
-| 4/4/26 | IMG-20260404-WA0013.jpg | Fabrizio Martini (Fra Martino) — davanti alla cattedrale di Kolín, 14:19 | | Abate Elfo (confidenza: bassa) |
+| 4/4/26 | IMG-20260404-WA0007.jpg | Fabrizio Martini (Fra Martino) — pellegrinaggio verso Kolín, 12:19 | DUBBIA — potrebbe essere foto reale in costume | Gruppo (Abate Elfo, Fra Martino) (confidenza: alta, confermato dall'utente) |
+| 4/4/26 | IMG-20260404-WA0013.jpg | Fabrizio Martini (Fra Martino) — davanti alla cattedrale di Kolín, 14:19 | | Abate Elfo (confidenza: alta, confermato dall'utente) |
 | 5/4/26 | IMG-20260405-WA0004.jpg | Fabrizio Martini (Fra Martino) — il banchetto del Conte Bonifacio, 09:48 | | Gruppo (Conte Bonifacio, Abate Elfo, Fra Cordino, Fra Martino) (confidenza: media) |
 | 5/4/26 | IMG-20260405-WA0010.jpg | Fabrizio Martini (Fra Martino) — Don Massimetto e il Barone Gemelli a Nusle, 13:01 | DUBBIA — elementi anacronistici/comici forti | Gruppo (Don Massimetto Catrame, Barone Gemelli il Vanitoso) (confidenza: alta) |
 | 5/4/26 | IMG-20260405-WA0011.jpg | Fabrizio Martini (Fra Martino) — il Barone Gemelli il Vanitoso, 13:01 | DUBBIA — nessun elemento monastico diretto | Barone Gemelli il Vanitoso (confidenza: alta) |
 | 14/4/26 | IMG-20260414-WA0009.jpg | Lorenzo Cordini — partenza per Bologna, 21:33 (allegata da Fabrizio Martini il giorno dopo) | | Gruppo (Padre Pier Poulet, Fra Cordino, Fra Martino, Abate Elfo) (confidenza: media) |
-| 31/5/26 | IMG-20260531-WA0009.jpg | Fabrizio Martini (Fra Martino) — il Conte Bonifacio e la birra di Pilsen, 22:07 | | Conte Bonifacio (confidenza: bassa) |
+| 31/5/26 | IMG-20260531-WA0009.jpg | Fabrizio Martini (Fra Martino) — il Conte Bonifacio e la birra di Pilsen, 22:07 | | Conte Bonifacio (confidenza: alta, confermato dall'utente) |
 | 3/6/26 | IMG-20260603-WA0008.jpg | Fabrizio Martini (Fra Martino) — Don Danilo dei Macerati al "Dar Salmonaro", 20:38 | | Don Danilo dei Macerati (confidenza: media) |
-| 4/6/26 | IMG-20260604-WA0001.jpg | Andreas Pieralli (Abate Elfo) — il dilemma del perdono per Don Danilo, 10:46 | | Gruppo (Abate Elfo, Il Solitario Acidasco o Don Danilo) (confidenza: bassa) |
 | 20/6/26 | IMG-20260620-WA0001.jpg | Fabrizio Martini — "il golpe immaginario" di Fra Martino, 00:21 | scherzo fuori-canone su un "colpo di stato" | Fra Martino (confidenza: media) |
 | 20/6/26 | IMG-20260620-WA0002.jpg | Lorenzo Cordini — riferimento al "Confortatorio di Mantova", 07:33 | | Fra Cordino (confidenza: alta) |
 | 19-20/6/26 | IMG-20260620-WA0004.jpg | Fabrizio Martini (Fra Martino) — Fra Cordino nel laghetto per il caldo, 19/6 08:35 | | Fra Cordino (confidenza: alta) |
@@ -70,18 +68,18 @@ La colonna **"Personaggio raffigurato"** è stata aggiunta incrociando indizi vi
 ## Riepilogo
 
 - **File esaminati**: 120 (tutti gli `IMG-*.jpg` in `chat/`)
-- **Copiati come "arte generata coerente"**: 58
-- **Scartati** (foto reali, selfie, screenshot, meme, vignette, contenuti politici/non pertinenti): 62
+- **Copiati come "arte generata coerente"**: 56 (58 classificate inizialmente, 2 rimosse dall'utente perché non generate da lui: IMG-20260403-WA0010.jpg e IMG-20260604-WA0001.jpg)
+- **Scartati** (foto reali, selfie, screenshot, meme, vignette, contenuti politici/non pertinenti): 64
 - **Segnalati DUBBIA** tra i copiati: 9 (WA0319-0007, WA0319-0014, WA0319-0015, WA0319-0040, WA0403-0006, WA0404-0007, WA0405-0010, WA0405-0011, WA0629-0013)
 
 Esempi tipici di scarto: screenshot di articoli/commenti Facebook, foto reali di grigliate/gite del gruppo di amici, vignette dialettali o politiche (es. `IMG-20260511-WA0003.jpg`, commento Facebook su politica ceca; `IMG-20260620-WA0000.jpg`, vignetta satirica su scuola/religione), meme, screenshot di mappe/chat, copertine di libri o film reali (es. "Il nome della rosa" 1986), foto di luoghi reali non generati (Sacra di San Michele, Klášterní šenk di Praga).
 
 ## Riepilogo identificazione personaggi
 
-- **Confidenza alta**: 21 immagini
+- **Confidenza alta**: 25 immagini (21 iniziali + 4 confermate dall'utente: WA0319-0038, WA0404-0007, WA0404-0013, WA0531-0009)
 - **Confidenza media**: 22 immagini
-- **Confidenza bassa**: 10 immagini
-- **Non identificato**: 3 immagini
+- **Confidenza bassa**: 7 immagini
+- **Non identificato**: 0 immagini (le 2 non identificate rimosse non erano generate dall'utente e sono state eliminate)
 - **Scena/ambientazione senza personaggio**: 2 immagini
 
 ### Pattern visivi ricorrenti individuati
@@ -94,15 +92,12 @@ Esempi tipici di scarto: screenshot di articoli/commenti Facebook, foto reali di
 
 ## Casi dubbi da verificare con l'utente
 
+Aggiornato dopo la prima revisione dell'utente (confermati: Gineprone WA0319-0038, Abate Elfo+Fra Martino WA0404-0007, Abate Elfo WA0404-0013, Conte Bonifacio WA0531-0009; rimosse perché non generate dall'utente: WA0403-0010, WA0604-0001). Restano da verificare:
+
 - **IMG-20260319-WA0007.jpg** — gruppo di 4 monaci in stile fumetto; impossibile associare con certezza i volti ai nomi (Abate Elfo ipotizzato solo dal saio nero).
-- **IMG-20260319-WA0038.jpg** — contesto dice "Gineprone scava il laghetto", ma la figura è un uomo anziano in abiti moderni (giacca, occhiali), non un saio né una corporatura da "gigante": probabile mismatch tra immagine e racconto collegato.
 - **IMG-20260326-WA0000.jpg** — split "Abate a letto comodo / monaci al freddo": i tre monaci infreddoliti a destra non hanno tratti distintivi sufficienti per un nome.
 - **IMG-20260329-WA0001.jpg** — monaci che spalano neve nel chiostro, nessun racconto diretto collegato, nessun tratto distintivo (occhiali, saio nero) riconoscibile.
 - **IMG-20260331-WA0013.jpg** e **IMG-20260331-WA0015.jpg** — scene fantastiche/oniriche (battaglia, barca con predoni) probabilmente non vanno lette come ritratti letterali dei personaggi.
 - **IMG-20260404-WA0005.jpg** — split image: la figura in cella è quasi certamente Fra Cordino (occhiali), ma il monaco calvo diretto a "Colin" (Kolín) sul lato destro non è identificabile.
-- **IMG-20260404-WA0007.jpg** e **IMG-20260404-WA0013.jpg** — già segnalate DUBBIA come possibili foto reali stilizzate (turisti a Kolín/Praga) più che arte generata coerente con personaggi; l'attribuzione a Abate Elfo/Fra Martino è debole.
-- **IMG-20260403-WA0010.jpg** — ritratto/citazione su Hildegard von Bingen: riferimento storico usato come cornice narrativa, non un personaggio dell'Abbatia.
-- **IMG-20260531-WA0009.jpg** — contesto dice Conte Bonifacio, ma il viso e l'abbigliamento (tunica verde, non i ricchi broccati/pellicce dell'altra immagine del Conte) non corrispondono affatto alla resa vista nel banchetto del 5/4: possibile errore di generazione o personaggio diverso.
-- **IMG-20260604-WA0001.jpg** — la figura che entra nel chiostro sullo sfondo ha il mantello logoro tipico del Solitario Acidasco, ma il racconto collegato parla di Don Danilo dei Macerati: i due personaggi hanno un aspetto "dimesso" simile e sono facilmente confondibili.
 - **IMG-20260629-WA0013.jpg** — uomo in canottiera in un borgo contemporaneo, nessun elemento monastico: probabilmente estraneo al canone dell'Abbatia (scherzo/fuori tema).
 
