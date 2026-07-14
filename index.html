@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Antica Abbatīa di San Gineprio</title>
+<meta name="description" content="Le cronache, la geografia e i personaggi dell'Antica Abbatīa di San Gineprio, nel Casentino.">
+<style>
+:root{
+  --ink:#2b2016;
+  --ink-soft:#5a4c38;
+  --vellum:#cdc3a5;
+  --vellum-edge:#a89b78;
+  --vellum-panel:#d9d0b4;
+  --stage:#171310;
+  --vignette:rgba(255,196,110,0.09);
+  --accent:#24427a;
+  --gold:#8a6a24;
+  --rubric:#7a2a2a;
+}
+@media (prefers-color-scheme: dark){
+  :root{
+    --ink:#e9ddc2;
+    --ink-soft:#b9ac8b;
+    --vellum:#241e15;
+    --vellum-edge:#4d4128;
+    --vellum-panel:#2c2417;
+    --stage:#0a0806;
+    --vignette:rgba(255,176,90,0.07);
+    --accent:#87a6dc;
+    --gold:#d3ac4d;
+    --rubric:#c26765;
+  }
+}
+*{box-sizing:border-box;}
+html{scroll-behavior:smooth;}
+body{
+  margin:0;
+  background:var(--stage);
+  color:var(--ink);
+  font-family:'Palatino Linotype','Palatino','Book Antiqua','Iowan Old Style',Georgia,serif;
+  line-height:1.65;
+}
+a{color:var(--accent);}
+.wrap{max-width:1080px;margin:0 auto;padding:0 1.5rem;}
+.kicker{
+  text-transform:uppercase;
+  letter-spacing:.2em;
+  font-size:.72rem;
+  color:var(--ink-soft);
+  margin:0 0 .6rem;
+}
+h1,h2,h3{text-wrap:balance;margin:0;}
+h2{
+  font-size:clamp(1.5rem,3.2vw,2rem);
+  font-variant-caps:small-caps;
+  letter-spacing:.02em;
+  border-bottom:1px solid var(--vellum-edge);
+  padding-bottom:.6rem;
+  margin-bottom:1.6rem;
+}
+
+/* Nav */
+.nav{
+  position:sticky;top:0;z-index:20;
+  background:var(--stage);
+  border-bottom:1px solid rgba(255,255,255,.08);
+}
+.nav .wrap{display:flex;align-items:center;justify-content:space-between;padding:.9rem 1.5rem;}
+.wordmark{color:var(--vellum);font-variant-caps:small-caps;letter-spacing:.04em;font-size:1.05rem;text-decoration:none;}
+.nav ul{list-style:none;display:flex;gap:1.4rem;margin:0;padding:0;}
+.nav a{color:var(--vellum-edge);text-decoration:none;font-size:.85rem;letter-spacing:.03em;}
+.nav a:hover{color:var(--vellum);}
+.nav-toggle{display:none;}
+
+/* Hero */
+.hero{
+  position:relative;
+  min-height:78vh;
+  display:flex;
+  align-items:flex-end;
+  background:#000;
+}
+.hero img{
+  position:absolute;inset:0;
+  width:100%;height:100%;object-fit:cover;
+  opacity:.75;
+}
+.hero::after{
+  content:"";
+  position:absolute;inset:0;
+  background:linear-gradient(180deg, rgba(10,8,6,.15) 0%, rgba(10,8,6,.55) 65%, rgba(10,8,6,.92) 100%);
+}
+.hero-content{
+  position:relative;z-index:1;
+  padding:3rem 1.5rem 3.2rem;
+  max-width:1080px;
+  margin:0 auto;
+  width:100%;
+}
+.hero-content .kicker{color:#d9c99a;}
+.hero h1{
+  color:#f4ecd8;
+  font-size:clamp(2.1rem,6vw,3.4rem);
+  font-variant-caps:small-caps;
+  letter-spacing:.01em;
+}
+.hero p{
+  color:#e6dcc4;
+  max-width:46rem;
+  font-size:1.08rem;
+  margin-top:.9rem;
+}
+.hero-cta{
+  display:inline-block;
+  margin-top:1.6rem;
+  background:var(--rubric);
+  color:#f2e7cf;
+  text-decoration:none;
+  padding:.8rem 1.6rem;
+  font-size:.92rem;
+  letter-spacing:.04em;
+  text-transform:uppercase;
+  box-shadow:0 8px 22px rgba(0,0,0,.4);
+}
+
+/* Sections */
+section{padding:4rem 0;}
+.section-alt{background:var(--vellum);color:var(--ink);}
+.section-alt h2{color:var(--ink);}
+.lede{max-width:46rem;font-size:1.05rem;color:var(--ink-soft);margin-bottom:2rem;}
+.on-dark .lede{color:var(--vellum-edge);}
+.on-dark{color:var(--vellum);}
+.on-dark h2{color:var(--vellum);border-color:rgba(255,255,255,.15);}
+
+/* Territorio */
+.territorio-grid{display:grid;grid-template-columns:1.3fr 1fr;gap:1.5rem;}
+.plate{
+  background:var(--vellum-panel);
+  border:1px solid var(--vellum-edge);
+  overflow:hidden;
+}
+.plate img{display:block;width:100%;height:auto;}
+.plate figcaption{
+  padding:.9rem 1.1rem;
+  font-size:.85rem;
+  color:var(--ink-soft);
+  border-top:1px solid var(--vellum-edge);
+}
+.plate figcaption strong{color:var(--ink);font-weight:700;}
+
+/* Tavole gallery */
+.tavole-grid{display:grid;grid-template-columns:1fr 1fr;gap:1.5rem;}
+
+/* Character cards */
+.cast-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(190px,1fr));gap:1.6rem;}
+.card{
+  background:var(--vellum-panel);
+  border:1px solid var(--vellum-edge);
+  padding:1.2rem 1rem 1.4rem;
+  text-align:center;
+}
+.card .portrait{
+  width:96px;height:96px;
+  border-radius:50%;
+  overflow:hidden;
+  margin:0 auto .8rem;
+  border:3px solid var(--gold);
+  outline:1px solid var(--ink-soft);
+  outline-offset:3px;
+  background:var(--vellum-edge);
+}
+.card .portrait img{width:100%;height:100%;object-fit:cover;filter:sepia(.12) contrast(1.03);}
+.card .portrait.empty{display:flex;align-items:center;justify-content:center;font-size:1.6rem;color:var(--ink-soft);}
+.card h3{
+  font-size:1rem;
+  font-variant-caps:small-caps;
+  letter-spacing:.02em;
+  margin-bottom:.5rem;
+}
+.card p{font-size:.86rem;color:var(--ink-soft);margin:0;}
+
+.guest-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:1.2rem;}
+.guest-card{
+  background:var(--vellum-panel);
+  border:1px solid var(--vellum-edge);
+  padding:1rem;
+  text-align:center;
+}
+.guest-card .portrait{width:72px;height:72px;border-radius:50%;overflow:hidden;margin:0 auto .6rem;border:2px solid var(--gold);background:var(--vellum-edge);}
+.guest-card .portrait img{width:100%;height:100%;object-fit:cover;filter:sepia(.12) contrast(1.03);}
+.guest-card .portrait.empty{display:flex;align-items:center;justify-content:center;font-size:1.2rem;color:var(--ink-soft);}
+.guest-card h4{font-size:.88rem;font-variant-caps:small-caps;margin:0 0 .3rem;}
+.guest-card p{font-size:.76rem;color:var(--ink-soft);margin:0;}
+
+/* Game callout */
+.game-callout{
+  display:flex;flex-wrap:wrap;gap:2rem;align-items:center;justify-content:space-between;
+  background:var(--vellum-panel);
+  border:1px solid var(--vellum-edge);
+  padding:2rem;
+}
+.game-callout .text{max-width:34rem;}
+.game-callout h2{border:none;padding:0;margin-bottom:.6rem;}
+.game-cta{
+  display:inline-block;
+  background:var(--accent);
+  color:#f2ecd9;
+  text-decoration:none;
+  padding:.85rem 1.7rem;
+  font-size:.92rem;
+  letter-spacing:.03em;
+  text-transform:uppercase;
+  white-space:nowrap;
+}
+
+footer{
+  padding:2.5rem 0 3rem;
+  text-align:center;
+  font-size:.78rem;
+  color:var(--vellum-edge);
+  letter-spacing:.02em;
+}
+footer a{color:var(--vellum-edge);}
+
+@media (max-width:760px){
+  .territorio-grid, .tavole-grid{grid-template-columns:1fr;}
+  .nav ul{gap:.9rem;}
+  .nav a{font-size:.78rem;}
+}
+</style>
+</head>
+<body>
+
+<nav class="nav">
+  <div class="wrap">
+    <a class="wordmark" href="#top">Abbatīa di San Gineprio</a>
+    <ul>
+      <li><a href="#territorio">Territorio</a></li>
+      <li><a href="#tavole">Tavole</a></li>
+      <li><a href="#protagonisti">Protagonisti</a></li>
+      <li><a href="#ospiti">Ospiti</a></li>
+      <li><a href="#gioco">Il Gioco</a></li>
+    </ul>
+  </div>
+</nav>
+
+<header class="hero" id="top">
+  <img src="mappe/veduta-generale-abbazia.png" alt="Veduta generale dell'Antica Abbatīa di San Gineprio">
+  <div class="hero-content">
+    <p class="kicker">Casentino · Provincia di Arezzo</p>
+    <h1>Antica Abbatīa<br>di San Gineprio</h1>
+    <p>Su un passo di montagna, tra i boschi neri di abeti del Casentino, un'abbazia che non ha mai smesso di raccontarsi. Queste pagine raccolgono la sua geografia, i suoi confratelli, e le cronache che ne nascono di continuo.</p>
+    <a class="hero-cta" href="#gioco">Varca la soglia</a>
+  </div>
+</header>
+
+<section id="territorio" class="section-alt">
+  <div class="wrap">
+    <p class="kicker">Il territorio</p>
+    <h2>Dove sorge l'Abbatīa</h2>
+    <p class="lede">Nel Casentino, l'alta valle dell'Arno: mura di pietra grigia su un passo di montagna, un villaggio di mercato a valle, una geografia fissata cronaca dopo cronaca.</p>
+    <div class="territorio-grid">
+      <figure class="plate">
+        <img src="mappe/il-casentino.jpg" alt="Mappa illustrata del Casentino e delle terre dell'Abbatīa">
+        <figcaption><strong>Il Casentino.</strong> Pratomagno a ovest, Monte Falterona a est, il Passo della Consuma verso Firenze, il villaggio di Cuccurano a valle.</figcaption>
+      </figure>
+      <figure class="plate">
+        <img src="mappe/planimetria.png" alt="Planimetria dell'Antica Abbatīa di San Gineprio">
+        <figcaption><strong>Planimetria.</strong> Chiesa, chiostro, scriptorium, refettorio, le celle dei confratelli e, separata, la casa dell'Abate.</figcaption>
+      </figure>
+    </div>
+  </div>
+</section>
+
+<section id="tavole">
+  <div class="wrap on-dark">
+    <p class="kicker">L'atlante illustrato</p>
+    <h2>Tavole dell'Abbatīa</h2>
+    <p class="lede">Vedute e dettagli architettonici, nello stesso stile della mappa e della planimetria.</p>
+    <div class="tavole-grid">
+      <figure class="plate">
+        <img src="mappe/facciata-chiesa-abbaziale.png" alt="Facciata della Chiesa Abbaziale">
+        <figcaption><strong>Tavola III.</strong> Facciata della Chiesa Abbaziale.</figcaption>
+      </figure>
+      <figure class="plate">
+        <img src="mappe/chiostro.png" alt="Il Chiostro">
+        <figcaption><strong>Tavola IV.</strong> Il Chiostro.</figcaption>
+      </figure>
+    </div>
+  </div>
+</section>
+
+<section id="protagonisti" class="section-alt">
+  <div class="wrap">
+    <p class="kicker">Il canone</p>
+    <h2>I Protagonisti</h2>
+    <p class="lede">La comunità fissa dell'Abbatīa, così come emerge dalle cronache.</p>
+    <div class="cast-grid">
+      <div class="card">
+        <div class="portrait"><img src="immagini-generate/IMG-20260323-WA0038.jpg" alt="Abate Elfo"></div>
+        <h3>Abate Elfo</h3>
+        <p>La guida spirituale. Saggio, benevolo, dallo sguardo che legge nel profondo. Parole rare e pesanti come pietre di volta.</p>
+      </div>
+      <div class="card">
+        <div class="portrait"><img src="immagini-generate/IMG-20260322-WA0023.jpg" alt="Fra Cordino"></div>
+        <h3>Fra Cordino</h3>
+        <p>Il volto umano della comunità. Occhiali sul naso, ceduto spesso alla gola e ai morsi della fame notturna. Sbaglia, espia, ricomincia.</p>
+      </div>
+      <div class="card">
+        <div class="portrait"><img src="immagini-generate/IMG-20260319-WA0037.jpg" alt="Fra Martino"></div>
+        <h3>Fra Martino</h3>
+        <p>Arrivato dalle foreste del Casentino, testimone e narratore delle piccole turbolenze del monastero, ormai cronista al pari di Fra Cordino.</p>
+      </div>
+      <div class="card">
+        <div class="portrait"><img src="immagini-generate/IMG-20260322-WA0024.jpg" alt="Padre Pier Poulet"></div>
+        <h3>Padre Pier Poulet</h3>
+        <p>Chino sui codici antichi dello scriptorium, traduce da settimane il Codex Sancti Vlfsi Confessoris. Osserva più di quanto parli.</p>
+      </div>
+      <div class="card">
+        <div class="portrait"><img src="immagini-generate/IMG-20260319-WA0038.jpg" alt="Gineprone"></div>
+        <h3>Gineprone</h3>
+        <p>Il gigante buono, simbolo del lavoro manuale. Mani come badili, cuore di fanciullo. Scava dritto e non ha mai visto il mare.</p>
+      </div>
+      <div class="card">
+        <div class="portrait"><img src="immagini-generate/IMG-20260714-WA0007.jpg" alt="Fra Marco da Dama"></div>
+        <h3>Fra Marco da Dama</h3>
+        <p>L'Ospitaliere, banditore ufficiale dell'Abbatīa. Voce da tuono, richiami al silenzio puntualmente ignorati.</p>
+      </div>
+      <div class="card">
+        <div class="portrait"><img src="immagini-generate/IMG-20260331-WA0017.jpg" alt="Il Solitario Acidasco"></div>
+        <h3>Il Solitario Acidasco</h3>
+        <p>Un'anomalia ai margini dell'Abbatīa. Critica ogni cosa, e dietro l'acidità cela l'astuzia di un vero imbroglione.</p>
+      </div>
+      <div class="card">
+        <div class="portrait empty">⛁</div>
+        <h3>Glenn</h3>
+        <p>Il Cellarista. Devoto al vino toscano, edonista rassegnato, tormentato dal richiamo delle gelide lande danesi.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="ospiti">
+  <div class="wrap on-dark">
+    <p class="kicker">Di passaggio</p>
+    <h2>Gli Ospiti dell'Abbatīa</h2>
+    <p class="lede">Figure che tornano più volte nelle cronache, spesso come test di virtù o tentazione per la comunità.</p>
+    <div class="guest-grid">
+      <div class="guest-card">
+        <div class="portrait"><img src="immagini-generate/IMG-20260403-WA0006.jpg" alt="Don Massimetto Catrame"></div>
+        <h4>Don Massimetto Catrame</h4>
+        <p>Prete più devoto all'osteria che al Calvario.</p>
+      </div>
+      <div class="guest-card">
+        <div class="portrait"><img src="immagini-generate/IMG-20260405-WA0011.jpg" alt="Barone Gemelli il Vanitoso"></div>
+        <h4>Barone Gemelli</h4>
+        <p>Nobiltà millantata, logorrea inarrestabile.</p>
+      </div>
+      <div class="guest-card">
+        <div class="portrait"><img src="immagini-generate/IMG-20260531-WA0009.jpg" alt="Conte Bonifacio"></div>
+        <h4>Conte Bonifacio</h4>
+        <p>Generosità siciliana quasi imbarazzante.</p>
+      </div>
+      <div class="guest-card">
+        <div class="portrait"><img src="immagini-generate/IMG-20260603-WA0008.jpg" alt="Don Danilo dei Macerati"></div>
+        <h4>Don Danilo dei Macerati</h4>
+        <p>Nobile decaduto in cerca di redenzione.</p>
+      </div>
+      <div class="guest-card">
+        <div class="portrait empty">⛁</div>
+        <h4>Fra Cipolla</h4>
+        <p>Narratore-truffatore, omaggio al Decameron.</p>
+      </div>
+      <div class="guest-card">
+        <div class="portrait empty">⛁</div>
+        <h4>Robertino</h4>
+        <p>Eretico ostinato, avversario intellettuale dell'Abate.</p>
+      </div>
+      <div class="guest-card">
+        <div class="portrait empty">⛁</div>
+        <h4>L'Orco di Ostrava</h4>
+        <p>Titano vagabondo, mago degli ingranaggi.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="gioco" class="section-alt">
+  <div class="wrap">
+    <div class="game-callout">
+      <div class="text">
+        <p class="kicker">Interattivo</p>
+        <h2>Il Cammino del Novizio</h2>
+        <p>Un'avventura a bivi: sei un pellegrino in cerca di ammissione all'Abbatīa. Le tue scelte, non le tue intenzioni, diranno all'Abate chi sei davvero.</p>
+      </div>
+      <a class="game-cta" href="giochi/avventura-a-bivi.html">Gioca ora</a>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    Nata da una chat WhatsApp reale tra amici. &middot; <a href="https://github.com/fabriziomartini/abbatia">Il repository su GitHub</a>
+  </div>
+</footer>
+
+</body>
+</html>
