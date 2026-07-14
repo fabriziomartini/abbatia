@@ -1,6 +1,6 @@
 # Indice delle immagini generate
 
-56 immagini selezionate su 120 file `IMG-*.jpg` presenti in `chat/`, come arte/ritratti coerenti con lo stile "realismo fotografico cinematografico, cupo e medievale" del progetto Abbatia (vedi criteri in `prompts/cronista.md`). Gli originali restano invariati in `chat/`; qui sono copie. Le immagini segnalate **DUBBIA** sono state incluse per sicurezza (secondo le istruzioni) ma hanno elementi che le rendono meno certe: stile a fumetto anziché fotorealistico, possibili foto reali stilizzate, o soggetti senza elementi monastici espliciti.
+50 immagini selezionate su 120 file `IMG-*.jpg` presenti in `chat/`, come arte/ritratti coerenti con lo stile "realismo fotografico cinematografico, cupo e medievale" del progetto Abbatia (vedi criteri in `prompts/cronista.md`). Gli originali restano invariati in `chat/`; qui sono copie. Le immagini segnalate **DUBBIA** sono state incluse per sicurezza (secondo le istruzioni) ma hanno elementi che le rendono meno certe: stile a fumetto anziché fotorealistico, possibili foto reali stilizzate, o soggetti senza elementi monastici espliciti.
 
 Ordinate cronologicamente per data ripresa dal nome file (`IMG-AAAAMMGG-WA####.jpg`). Dove il racconto collegato è stato individuato nella fase 1 (vedi `cronache/racconti-estratti.md`), è indicato con data/mittente/personaggio.
 
@@ -8,7 +8,6 @@ La colonna **"Personaggio raffigurato"** è stata aggiunta incrociando indizi vi
 
 | Data | File | Racconto/contesto collegato | Note | Personaggio raffigurato |
 |---|---|---|---|---|
-| 19/3/26 | IMG-20260319-WA0007.jpg | Lorenzo Cordini (Fra Cordino) — accoglienza a Fra Martino, 13:35 | DUBBIA — stile fumetto/comic | Gruppo (Abate Elfo, Fra Martino, altri non identificati) (confidenza: bassa) |
 | 19/3/26 | IMG-20260319-WA0009.jpg | Andreas Pieralli (Abate Elfo) — "l'Abate pensieroso", 14:14 | | Abate Elfo (confidenza: alta) |
 | 19/3/26 | IMG-20260319-WA0014.jpg | Andreas Pieralli — motto "Satis est" di Fra Cordino, 14:32 | DUBBIA — pannello misto foto/IA | Fra Cordino (confidenza: media) |
 | 19/3/26 | IMG-20260319-WA0015.jpg | Andreas Pieralli — motto "Qualis nox amici" di Padre Pierre Poulet, 14:36 | DUBBIA — pannello misto foto/IA | Padre Pier Poulet (confidenza: media) |
@@ -32,21 +31,16 @@ La colonna **"Personaggio raffigurato"** è stata aggiunta incrociando indizi vi
 | 22/3/26 | IMG-20260322-WA0024.jpg | Fabrizio Martini (Fra Martino) — Padre Pier Poulet nello scriptorium, 23/3 17:49 | | Padre Pier Poulet (confidenza: media) |
 | 23/3/26 | IMG-20260323-WA0038.jpg | Fabrizio Martini (Fra Martino) — l'Abate osserva dalla loggia, 19:08 | | Abate Elfo (confidenza: alta) |
 | 25/3/26 | IMG-20260325-WA0010.jpg | Fabrizio Martini (Fra Martino) — Fra Cordino al mercato per il sale, 13:29 | | Fra Cordino (confidenza: alta) |
-| 26/3/26 | IMG-20260326-WA0000.jpg | Andreas Pieralli — buonanotte, 25/3 22:48 | | Gruppo (Abate Elfo, monaci non identificati) (confidenza: bassa) |
 | 26/3/26 | IMG-20260326-WA0021.jpg | Lorenzo Cordini — bramborák, 18:44 (immagine allegata da Fabrizio Martini) | | Fra Martino (confidenza: media) |
 | 26/3/26 | IMG-20260326-WA0022.jpg | Lorenzo Cordini — bramborák, 18:44 (immagine allegata da Fabrizio Martini) | | Gruppo (Fra Martino, Fra Cordino) (confidenza: alta) |
 | 27/3/26 | IMG-20260327-WA0000.jpg | Andreas Pieralli — l'Abate scrive alla scrivania, 06:57 | | Abate Elfo (confidenza: media) |
 | 27/3/26 | IMG-20260327-WA0025.jpg | Fabrizio Martini (Fra Martino) — Fra Cordino scivola nel laghetto, 17:33 | | Gruppo (Fra Cordino, Abate Elfo) (confidenza: media) |
-| 29/3/26 | IMG-20260329-WA0001.jpg | (nessun racconto diretto individuato; monaci spalano neve nel chiostro) | | Gruppo (monaci non identificati) (confidenza: bassa) |
-| 31/3/26 | IMG-20260331-WA0013.jpg | Andreas Pieralli (Abate Elfo) — resta in Abbatia, 19:49 | | Gruppo (Abate Elfo, monaci non identificati — scena fantastica) (confidenza: bassa) |
-| 31/3/26 | IMG-20260331-WA0015.jpg | Lorenzo Cordini — la tempesta di neve (parodia di Leopardi), 22:05 | | Gruppo (monaci non identificati — scena fantastica) (confidenza: bassa) |
 | 31/3/26 | IMG-20260331-WA0017.jpg | Fabrizio Martini (Fra Martino) — il Solitario Acidasco, 23:18 | | Il Solitario Acidasco (confidenza: alta) |
 | 1/4/26 | IMG-20260401-WA0003.jpg | Fabrizio Martini (Fra Martino) — Gineprone e l'Acidasco, 12:47 | | Il Solitario Acidasco (confidenza: alta) |
 | 2/4/26 | IMG-20260402-WA0001.jpg | Fabrizio Martini (Fra Martino) — la lavanda dei piedi (Mandatum), 09:43 | | Gruppo (Abate Elfo, Fra Cordino, Padre Pier Poulet) (confidenza: media) |
 | 2/4/26 | IMG-20260402-WA0003.jpg | Fabrizio Martini — processione/Via Crucis, 10:51 | | Fra Cordino (confidenza: media) |
 | 3/4/26 | IMG-20260403-WA0006.jpg | Fabrizio Martini (Fra Martino) — arrivo di Don Massimetto Catrame, 14:22 | DUBBIA — tono più comico/moderno | Don Massimetto Catrame (confidenza: alta) |
 | 4/4/26 | IMG-20260404-WA0000.jpg | Andreas Pieralli — episodio del "bidet", Fra Cordino nella cripta, 20:54 | | Gruppo (Abate Elfo, Fra Cordino) (confidenza: media) |
-| 4/4/26 | IMG-20260404-WA0005.jpg | Andreas Pieralli — Fra Cordino trattenuto per il pellegrinaggio a Kolín, 10:31 | | Gruppo (Fra Cordino, monaco non identificato) (confidenza: bassa) |
 | 4/4/26 | IMG-20260404-WA0007.jpg | Fabrizio Martini (Fra Martino) — pellegrinaggio verso Kolín, 12:19 | DUBBIA — potrebbe essere foto reale in costume | Gruppo (Abate Elfo, Fra Martino) (confidenza: alta, confermato dall'utente) |
 | 4/4/26 | IMG-20260404-WA0013.jpg | Fabrizio Martini (Fra Martino) — davanti alla cattedrale di Kolín, 14:19 | | Abate Elfo (confidenza: alta, confermato dall'utente) |
 | 5/4/26 | IMG-20260405-WA0004.jpg | Fabrizio Martini (Fra Martino) — il banchetto del Conte Bonifacio, 09:48 | | Gruppo (Conte Bonifacio, Abate Elfo, Fra Cordino, Fra Martino) (confidenza: media) |
@@ -68,9 +62,9 @@ La colonna **"Personaggio raffigurato"** è stata aggiunta incrociando indizi vi
 ## Riepilogo
 
 - **File esaminati**: 120 (tutti gli `IMG-*.jpg` in `chat/`)
-- **Copiati come "arte generata coerente"**: 56 (58 classificate inizialmente, 2 rimosse dall'utente perché non generate da lui: IMG-20260403-WA0010.jpg e IMG-20260604-WA0001.jpg)
-- **Scartati** (foto reali, selfie, screenshot, meme, vignette, contenuti politici/non pertinenti): 64
-- **Segnalati DUBBIA** tra i copiati: 9 (WA0319-0007, WA0319-0014, WA0319-0015, WA0319-0040, WA0403-0006, WA0404-0007, WA0405-0010, WA0405-0011, WA0629-0013)
+- **Copiati come "arte generata coerente"**: 50 (58 classificate inizialmente; 8 rimosse dall'utente: 2 perché non generate da lui — IMG-20260403-WA0010.jpg, IMG-20260604-WA0001.jpg — e 6 perché scene di gruppo/fantastiche senza personaggi riconoscibili con certezza — IMG-20260319-WA0007.jpg, IMG-20260326-WA0000.jpg, IMG-20260329-WA0001.jpg, IMG-20260331-WA0013.jpg, IMG-20260331-WA0015.jpg, IMG-20260404-WA0005.jpg)
+- **Scartati** (foto reali, selfie, screenshot, meme, vignette, contenuti politici/non pertinenti, o rimossi dall'utente): 70
+- **Segnalati DUBBIA** tra i copiati rimasti: 7 (WA0319-0014, WA0319-0015, WA0319-0040, WA0403-0006, WA0404-0007, WA0405-0010, WA0405-0011)
 
 Esempi tipici di scarto: screenshot di articoli/commenti Facebook, foto reali di grigliate/gite del gruppo di amici, vignette dialettali o politiche (es. `IMG-20260511-WA0003.jpg`, commento Facebook su politica ceca; `IMG-20260620-WA0000.jpg`, vignetta satirica su scuola/religione), meme, screenshot di mappe/chat, copertine di libri o film reali (es. "Il nome della rosa" 1986), foto di luoghi reali non generati (Sacra di San Michele, Klášterní šenk di Praga).
 
@@ -78,9 +72,11 @@ Esempi tipici di scarto: screenshot di articoli/commenti Facebook, foto reali di
 
 - **Confidenza alta**: 25 immagini (21 iniziali + 4 confermate dall'utente: WA0319-0038, WA0404-0007, WA0404-0013, WA0531-0009)
 - **Confidenza media**: 22 immagini
-- **Confidenza bassa**: 7 immagini
-- **Non identificato**: 0 immagini (le 2 non identificate rimosse non erano generate dall'utente e sono state eliminate)
+- **Confidenza bassa**: 1 immagine (WA0629-0013, ancora da verificare)
+- **Non identificato**: 0 immagini
 - **Scena/ambientazione senza personaggio**: 2 immagini
+
+Le altre 6 immagini a bassa confidenza (gruppi di monaci non distinguibili, scene fantastiche/oniriche) sono state eliminate dall'utente il 14/7/26.
 
 ### Pattern visivi ricorrenti individuati
 
@@ -92,12 +88,7 @@ Esempi tipici di scarto: screenshot di articoli/commenti Facebook, foto reali di
 
 ## Casi dubbi da verificare con l'utente
 
-Aggiornato dopo la prima revisione dell'utente (confermati: Gineprone WA0319-0038, Abate Elfo+Fra Martino WA0404-0007, Abate Elfo WA0404-0013, Conte Bonifacio WA0531-0009; rimosse perché non generate dall'utente: WA0403-0010, WA0604-0001). Restano da verificare:
+Seconda revisione dell'utente (14/7/26): confermati Gineprone (WA0319-0038), Abate Elfo+Fra Martino (WA0404-0007), Abate Elfo (WA0404-0013), Conte Bonifacio (WA0531-0009); eliminate 8 immagini (2 non generate dall'utente, 6 scene di gruppo/fantastiche non risolvibili con certezza — vedi elenco in "Riepilogo"). Resta un solo caso aperto:
 
-- **IMG-20260319-WA0007.jpg** — gruppo di 4 monaci in stile fumetto; impossibile associare con certezza i volti ai nomi (Abate Elfo ipotizzato solo dal saio nero).
-- **IMG-20260326-WA0000.jpg** — split "Abate a letto comodo / monaci al freddo": i tre monaci infreddoliti a destra non hanno tratti distintivi sufficienti per un nome.
-- **IMG-20260329-WA0001.jpg** — monaci che spalano neve nel chiostro, nessun racconto diretto collegato, nessun tratto distintivo (occhiali, saio nero) riconoscibile.
-- **IMG-20260331-WA0013.jpg** e **IMG-20260331-WA0015.jpg** — scene fantastiche/oniriche (battaglia, barca con predoni) probabilmente non vanno lette come ritratti letterali dei personaggi.
-- **IMG-20260404-WA0005.jpg** — split image: la figura in cella è quasi certamente Fra Cordino (occhiali), ma il monaco calvo diretto a "Colin" (Kolín) sul lato destro non è identificabile.
-- **IMG-20260629-WA0013.jpg** — uomo in canottiera in un borgo contemporaneo, nessun elemento monastico: probabilmente estraneo al canone dell'Abbatia (scherzo/fuori tema).
+- **IMG-20260629-WA0013.jpg** — uomo in canottiera in un borgo contemporaneo, nessun elemento monastico: probabilmente estraneo al canone dell'Abbatia (scherzo/fuori tema), da confermare se tenerla o eliminarla.
 
