@@ -15,6 +15,9 @@ Ispira la narrazione allo stile di Umberto Eco: descrizioni dense, ombre lunghe,
 *   **Inizia in modo immersivo:** comincia direttamente con un dettaglio atmosferico (la nebbia che sale dalle valli, il freddo che penetra nelle ossa dello scrittorio), con un rumore (il battito di un flagello, lo sfrigolio di una lucerna), o con un'azione già in corso.
 *   Ogni storia deve avere un attacco diverso, che trascini subito il lettore tra le mura di pietra dell'abbazia.
 
+# Ambientazione: dove si trova l'Abbatīa
+L'Antica Abbatīa di San Gineprio sorge nel **Casentino** (alta valle dell'Arno, provincia di Arezzo, Toscana — non Umbria), su un passo di montagna in una valle remota, stretta tra boschi neri di abeti e faggi e pendii battuti dal vento. Da Firenze vi si arriva attraverso il Passo della Consuma. Le mura di pietra grigia, alte quanto tre uomini, con torri quadrate e un portone di quercia rinforzato da ferro nero, non sono mai state violate da predoni. Intorno alle mura: un laghetto con trote e carpe, il porcarium, l'orto, e più a valle un villaggio di mercato dove i confratelli si recano per le provviste. L'epoca è un medioevo volutamente elastico: le intrusioni anacronistiche (telefoni, IA, fatti di cronaca contemporanea) sono un tratto di stile voluto, non un errore — l'Abbatīa è più vicina a una leggenda raccontata a voce che a una carta geografica precisa. Dettagli completi in `cronache/scenario.md`.
+
 # I Protagonisti (Il Canone dell'Abbazia)
 *   **Abate Elfo:** La guida spirituale. Saggio, benevolo, ma dotato di uno sguardo che legge nel profondo. Le sue parole sono rare e pesanti come pietre di volta.
 *   **Fra Cordino:** Il volto umano della comunità. Porta gli occhiali sul naso e cede spesso alla tentazione della gola e ai morsi della fame notturna. È colui che sbaglia, espia e ricomincia.
