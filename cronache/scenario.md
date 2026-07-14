@@ -4,7 +4,7 @@ Proposta di ambientazione, scritta incrociando tre fonti: la discussione esplici
 
 ## 1. La collocazione (già discussa e fissata dal gruppo)
 
-Il 14/7/26 Andreas Pieralli ha proposto di "inventare una località, un'altitudine, una mappa"; Lorenzo Cordini ha suggerito genericamente "area montana dell'Italia centrale — Umbria, Marche o Abruzzo". Ma è stato Fabrizio Martini a correggere il tiro con la battuta decisiva: *"il Casentino è la vallata che scavalca a Firenze sulla Consuma"* — e Andreas ha chiuso la discussione definendolo *"new entry ufficiale della ABBATĪA"*.
+Il 14/7/26 Abate Elfo ha proposto di "inventare una località, un'altitudine, una mappa"; Fra Cordino ha suggerito genericamente "area montana dell'Italia centrale — Umbria, Marche o Abruzzo". Ma è stato Fra Martino a correggere il tiro con la battuta decisiva: *"il Casentino è la vallata che scavalca a Firenze sulla Consuma"* — e Abate Elfo ha chiuso la discussione definendolo *"new entry ufficiale della ABBATĪA"*.
 
 **L'Abbatīa sorge quindi nel Casentino**: l'alta valle dell'Arno, provincia di Arezzo, Toscana — non in Umbria (l'"Umbria" iniziale era un errore poi corretto in diretta dagli stessi autori, vedi lo scambio "ooops, anche il Casentino è Umbria 😀").
 
@@ -36,11 +36,11 @@ Da lì in poi il racconto fissa dettagli precisi, da trattare come canone:
 
 ## 5. Il villaggio a valle: **Cuccurano** (confermato dall'utente)
 
-Il 14/7 Lorenzo Cordini ha descritto genericamente "una zona impervia sopra una valle dove si trova il villaggio con il mercato al quale si recano Fra Cordino e Fra Martino a far provviste" (coerente con l'episodio del mercato per il sale del 25/3). Il villaggio non aveva un nome nel canone: si è scelto **Cuccurano** — nome dal suono buffo e un po' rustico, perfetto per un borgo di mercato dove i confratelli vanno a contrattare sale e grano. (Nota: esiste un'omonima piccola frazione reale nei pressi di Fano, nelle Marche — tutt'altra zona, nessuna sovrapposizione con la geografia del Casentino.) È il paese dove i confratelli scendono per le provviste e dove si tiene il mercato.
+Il 14/7 Fra Cordino ha descritto genericamente "una zona impervia sopra una valle dove si trova il villaggio con il mercato al quale si recano Fra Cordino e Fra Martino a far provviste" (coerente con l'episodio del mercato per il sale del 25/3). Il villaggio non aveva un nome nel canone: si è scelto **Cuccurano** — nome dal suono buffo e un po' rustico, perfetto per un borgo di mercato dove i confratelli vanno a contrattare sale e grano. (Nota: esiste un'omonima piccola frazione reale nei pressi di Fano, nelle Marche — tutt'altra zona, nessuna sovrapposizione con la geografia del Casentino.) È il paese dove i confratelli scendono per le provviste e dove si tiene il mercato.
 
 ## 6. Il "locus amoenus" dell'Abate: il Lago di Equi Terme (confermato dall'utente)
 
-Il 14/7, Andreas Pieralli aveva menzionato che l'Abate Elfo trascorre "3 giorni di quiete e ristoro con la sua famiglia" in un *locus amoenus* vicino al Lago di Gramolazzo, non lontano da Equi Terme (Garfagnana/Lunigiana, provincia di Massa-Carrara — un paio di vallate a nord-ovest del Casentino). Confermato come luogo di villeggiatura dell'Abate: **il Lago di Equi Terme**, raggiunto con "qualche giorno di viaggio" dall'Abbatīa — coerente con lo stile già stabilito in cui i confratelli intraprendono pellegrinaggi verso luoghi lontani (Bologna, Kolín, l'Argentina). Non è la sede dell'Abbatīa, ma un'altra tappa della sua geografia allargata, al pari di quelle già narrate.
+Il 14/7, Abate Elfo aveva menzionato che l'Abate Elfo trascorre "3 giorni di quiete e ristoro con la sua famiglia" in un *locus amoenus* vicino al Lago di Gramolazzo, non lontano da Equi Terme (Garfagnana/Lunigiana, provincia di Massa-Carrara — un paio di vallate a nord-ovest del Casentino). Confermato come luogo di villeggiatura dell'Abate: **il Lago di Equi Terme**, raggiunto con "qualche giorno di viaggio" dall'Abbatīa — coerente con lo stile già stabilito in cui i confratelli intraprendono pellegrinaggi verso luoghi lontani (Bologna, Kolín, l'Argentina). Non è la sede dell'Abbatīa, ma un'altra tappa della sua geografia allargata, al pari di quelle già narrate.
 
 ## 7. Epoca e stile (già canone, qui solo riepilogato)
 

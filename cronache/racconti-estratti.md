@@ -6,7 +6,7 @@ Legenda: **Mittente reale** (personaggio impersonato, se deducibile) — data, o
 
 ---
 
-### 19/3/26, 13:32 — Fabrizio Martini (Fra Martino)
+### 19/3/26, 13:32 — Fra Martino
 *Nessuna immagine collegata.*
 
 > Sia lodato l'ordine e la puntualità. All'ora stabilita, il Protocollo Moldava ha trovato il suo compimento.
@@ -17,7 +17,7 @@ Legenda: **Mittente reale** (personaggio impersonato, se deducibile) — data, o
 
 ---
 
-### 19/3/26, 13:35 — Lorenzo Cordini (Fra Cordino)
+### 19/3/26, 13:35 — Fra Cordino
 Immagine collegata: IMG-20260319-WA0007.jpg (allegata dallo stesso mittente alle 13:45, dieci minuti dopo)
 
 > Fra Cordino fu tra i primi ad avvicinarsi a Fra Martino, subito dopo le parole misurate del reverendo Abate Elfo. Sul suo volto si leggeva una soddisfazione quieta, di quelle che non hanno bisogno di essere proclamate.
@@ -32,7 +32,7 @@ Immagine collegata: IMG-20260319-WA0007.jpg (allegata dallo stesso mittente alle
 
 ---
 
-### 19/3/26, 14:14 — Andreas Pieralli (Abate Elfo)
+### 19/3/26, 14:14 — Abate Elfo
 Immagine collegata: IMG-20260319-WA0009.jpg (stesso mittente, stesso minuto)
 
 > Mancava solo un giorno all'inizio della Primavera. L'abate Elfo era comodamente seduto su una poltrona di cuoio costoso di importazione estera. Dalla vetrata dell'ufficio dell'Abbatīa entrava una luce morbida e luminosa. Fuori si sentiva già l'inizio della primavera, ma faceva ancora un po' freddo.
@@ -41,7 +41,7 @@ Immagine collegata: IMG-20260319-WA0009.jpg (stesso mittente, stesso minuto)
 
 ---
 
-### 19/3/26, 14:20 — Andreas Pieralli (Abate Elfo, narratore onnisciente)
+### 19/3/26, 14:20 — Abate Elfo, narratore onnisciente
 Immagini collegate: nessuna diretta (seguita da un audio AUD-20260319-WA0010.opus)
 
 > Il sole filtrava tiepido attraverso le vetrate dell'abbazia, disegnando riflessi dorati sul lungo tavolo di legno della biblioteca. L'aria aveva già quel profumo leggero e promettente che annuncia la primavera, anche se l'inverno non aveva ancora del tutto abbandonato i chiostri.
@@ -82,7 +82,7 @@ Immagini collegate: nessuna diretta (seguita da un audio AUD-20260319-WA0010.opu
 
 ---
 
-### 19/3/26, 15:25 — Fabrizio Martini (Fra Martino)
+### 19/3/26, 15:25 — Fra Martino
 Immagine collegata: IMG-20260319-WA0024.jpg (stesso mittente, stesso minuto, precede il testo)
 
 > Miei amati confratelli in ABBATĪA S.G.,
@@ -96,7 +96,7 @@ Immagine collegata: IMG-20260319-WA0024.jpg (stesso mittente, stesso minuto, pre
 
 ---
 
-### 19/3/26, 16:06 — Fabrizio Martini (Fra Martino)
+### 19/3/26, 16:06 — Fra Martino
 Immagini collegate: IMG-20260319-WA0027.jpg, IMG-20260319-WA0029.jpg, IMG-20260319-WA0028.jpg, IMG-20260319-WA0030.jpg (stesso mittente, stesso minuto)
 
 > Fratelli della ABBATĪA,
@@ -105,7 +105,7 @@ Immagini collegate: IMG-20260319-WA0027.jpg, IMG-20260319-WA0029.jpg, IMG-202603
 
 ---
 
-### 19/3/26, 18:00 — Lorenzo Cordini (narratore onnisciente; introduce Gineprone)
+### 19/3/26, 18:00 — narratore onnisciente; introduce Gineprone
 *Nessuna immagine direttamente collegata a questo messaggio (vedi però il racconto successivo con IMG-20260319-WA0038.jpg).*
 
 > Il reverendo Abate Elfo tornava da Assisi con passo lento e cuore colmo. Aveva trascorso due giorni nella quiete solenne della Basilica di San Francesco d'Assisi, sostando a lungo nella Basilica Inferiore, dove la pietra trattiene ancora il fresco dell'antico silenzio.
@@ -160,7 +160,7 @@ Immagini collegate: IMG-20260319-WA0027.jpg, IMG-20260319-WA0029.jpg, IMG-202603
 
 ---
 
-### 19/3/26, 18:09 — Fabrizio Martini (Fra Martino, narratore)
+### 19/3/26, 18:09 — Fra Martino, narratore
 Immagine collegata: IMG-20260319-WA0038.jpg (stesso mittente, stesso minuto)
 
 > Sotto il sole del pomeriggio, Gineprone affonda la pala nella terra dell'abbazia. Il cappello riposa su una pietra, mentre il motto "Ora et Labora" benedice il suo sforzo silenzioso.
@@ -168,8 +168,8 @@ Immagine collegata: IMG-20260319-WA0038.jpg (stesso mittente, stesso minuto)
 
 ---
 
-### 19/3/26, 18:30 — Lorenzo Cordini (narratore onnisciente)
-Immagine collegata: IMG-20260319-WA0040.jpg (allegata da Fabrizio Martini alle 18:39, nove minuti dopo)
+### 19/3/26, 18:30 — narratore onnisciente
+Immagine collegata: IMG-20260319-WA0040.jpg (allegata da Fra Martino alle 18:39, nove minuti dopo)
 
 > Nevicava fitto attorno all'Abbazia, e il mondo sembrava essersi ristretto al perimetro delle sue mura. I tetti erano carichi di bianco, i sentieri cancellati, e il silenzio era così profondo che persino il vento pareva muoversi con cautela.
 >
@@ -191,7 +191,7 @@ Immagine collegata: IMG-20260319-WA0040.jpg (allegata da Fabrizio Martini alle 1
 
 ---
 
-### 19/3/26, 22:46 — Lorenzo Cordini (narratore onnisciente)
+### 19/3/26, 22:46 — narratore onnisciente
 *Nessuna immagine collegata.*
 
 > La prima sera di Fra Martino all'Abbatīa giunse lenta e raccolta, come se anche il tempo avesse deciso di muoversi con maggiore discrezione.
@@ -229,7 +229,7 @@ Immagine collegata: IMG-20260319-WA0040.jpg (allegata da Fabrizio Martini alle 1
 
 ---
 
-### 20/3/26, 03:14 — Fabrizio Martini (Fra Martino)
+### 20/3/26, 03:14 — Fra Martino
 Immagine collegata: IMG-20260319-WA0037.jpg (stesso mittente, stesso minuto)
 
 > Cari fratelli,
@@ -241,7 +241,7 @@ Immagine collegata: IMG-20260319-WA0037.jpg (stesso mittente, stesso minuto)
 
 ---
 
-### 20/3/26, 06:51 — Lorenzo Cordini (Fra Cordino)
+### 20/3/26, 06:51 — Fra Cordino
 *Nessuna immagine collegata.*
 
 > Fra Cordino lesse il messaggio di Fra Martino con attenzione, soffermandosi su alcune espressioni, quasi assaporandone il senso. Al termine, un lieve sorriso gli distese il volto.
@@ -272,7 +272,7 @@ Immagine collegata: IMG-20260319-WA0037.jpg (stesso mittente, stesso minuto)
 
 ---
 
-### 20/3/26, 13:11 — Lorenzo Cordini (narratore onnisciente)
+### 20/3/26, 13:11 — narratore onnisciente
 *Nessuna immagine collegata direttamente (segue STK adesivo).*
 
 > Il laghetto, finalmente compiuto, giaceva quieto sotto il cielo terso del primo tepore primaverile. L'acqua, deviata con pazienza dal ruscello, scorreva ora con un mormorio sommesso tra le sponde rinforzate; la palizzata, ancora odorosa di resina, disegnava un confine semplice ma solido.
@@ -350,7 +350,7 @@ Immagine collegata: IMG-20260319-WA0037.jpg (stesso mittente, stesso minuto)
 
 ---
 
-### 20/3/26, 14:48 — Fabrizio Martini (Fra Martino)
+### 20/3/26, 14:48 — Fra Martino
 Immagine collegata: IMG-20260320-WA0012.jpg (stesso mittente, stesso minuto)
 
 > Cari confratelli, mi sono permesso di raccogliere alcune erbe curative dal nostro giardino delle erbe.
@@ -358,7 +358,7 @@ Immagine collegata: IMG-20260320-WA0012.jpg (stesso mittente, stesso minuto)
 
 ---
 
-### 20/3/26, 18:32-18:36 — Pier Paolo Minori (Padre Pier Poulet)
+### 20/3/26, 18:32-18:36 — Padre Pier Poulet
 *Nessuna immagine collegata.*
 
 > Vorrei aggiungere che mentre il volgo si abbandona a stolte esultanze per l'avvento della primavera, quasi si trattasse di un trionfo degli antichi culti pagani, il nostro compito, in ABBATĪA, resta ben altro: raccoglierci nel silenzio, prepararci con disciplina e devozione al mistero della Pasqua, rifuggendo da simili vanità mondane che nulla hanno a che vedere con la vera elevazione dello spirito.
@@ -367,7 +367,7 @@ Immagine collegata: IMG-20260320-WA0012.jpg (stesso mittente, stesso minuto)
 
 ---
 
-### 20/3/26, 20:56 — Fabrizio Martini (Fra Martino)
+### 20/3/26, 20:56 — Fra Martino
 Immagine collegata: IMG-20260320-WA0023.jpg (stesso mittente, allegata poco prima alle 20:55)
 
 > Cari confratelli, la quiete della notte scende sulla nostra abbatīa. Dopo la nostra preghiera notturna e la meditazione sulla Sacra Scrittura, è giunto il tempo per il corpo e lo spirito di riposare nel Signore.
@@ -378,7 +378,7 @@ Immagine collegata: IMG-20260320-WA0023.jpg (stesso mittente, allegata poco prim
 
 ---
 
-### 20/3/26, 21:00 — Lorenzo Cordini (narratore/Fra Cordino)
+### 20/3/26, 21:00 — narratore/Fra Cordino
 *Nessuna immagine collegata.*
 
 > Cari confratelli,
@@ -389,7 +389,7 @@ Immagine collegata: IMG-20260320-WA0023.jpg (stesso mittente, allegata poco prim
 
 ---
 
-### 20/3/26, 22:35 — Fabrizio Martini (Fra Martino, narratore)
+### 20/3/26, 22:35 — Fra Martino, narratore
 Immagine collegata: IMG-20260320-WA0024.jpg (stesso mittente, stesso minuto)
 
 > Cari confratelli,
@@ -407,14 +407,14 @@ Immagine collegata: IMG-20260320-WA0024.jpg (stesso mittente, stesso minuto)
 
 ---
 
-### 21/3/26, 09:14 — Fabrizio Martini (Fra Martino, narratore)
+### 21/3/26, 09:14 — Fra Martino, narratore
 Immagine collegata: IMG-20260320-WA0025.jpg (stesso mittente, stesso minuto)
 
 > Per volere dell'Abate, Fra Cordino è stato assegnato alla cucina per un giorno intero. Egli deve strofinare accuratamente e lucidare ogni pentola di rame della comunità, in segno di 'Penitenza e Digiuno' per la sua recente indulgenza. Che l'umiltà di questo compito manuale sia la sua guida.
 
 ---
 
-### 21/3/26, 09:28 — Lorenzo Cordini (Fra Cordino)
+### 21/3/26, 09:28 — Fra Cordino
 *Nessuna immagine collegata.*
 
 > Fra Cordino rimase per un momento in silenzio nel corridoio della cucina, con il capo leggermente chino e le mani raccolte nelle maniche del suo saio. Non vi era in lui né protesta né sorpresa: nell'Abbatīa le decisioni del **Reverendo Abate Elfo** erano accolte come parte dell'ordine naturale delle cose, non diversamente dal mutare delle stagioni o dal suono della campana dell'ora.
@@ -435,7 +435,7 @@ Immagine collegata: IMG-20260320-WA0025.jpg (stesso mittente, stesso minuto)
 
 ---
 
-### 22/3/26, 09:29 — Lorenzo Cordini (narratore onnisciente)
+### 22/3/26, 09:29 — narratore onnisciente
 *Nessuna immagine collegata.*
 
 > La domenica mattina giunse all'Abbatīa con una luce chiara e ancora fresca. La primavera avanzava con discrezione: qualche gemma nuova sugli alberi del sentiero, l'erba più viva lungo il ruscello, e il laghetto — ormai quieto — che rifletteva il cielo come uno specchio leggermente increspato.
@@ -488,7 +488,7 @@ Immagine collegata: IMG-20260320-WA0025.jpg (stesso mittente, stesso minuto)
 
 ---
 
-### 22/3/26, 20:22 — Lorenzo Cordini (narratore onnisciente)
+### 22/3/26, 20:22 — narratore onnisciente
 *Nessuna immagine collegata.*
 
 > La sera scese sull'Abbatīa con passo lento, come una coperta posata con cura sulle cose. Dopo la **compieta**, la piccola comunità uscì dalla cappella nel silenzio che segue l'ultima preghiera del giorno. Nel cielo, tra le cime scure degli abeti, brillavano già le prime stelle.
@@ -541,7 +541,7 @@ Immagine collegata: IMG-20260320-WA0025.jpg (stesso mittente, stesso minuto)
 
 ---
 
-### 23/3/26, 08:52 — Fabrizio Martini (Fra Martino)
+### 23/3/26, 08:52 — Fra Martino
 Immagine collegata: IMG-20260322-WA0020.jpg (stesso mittente, stesso minuto)
 
 > Cari Confratelli,
@@ -553,7 +553,7 @@ Immagine collegata: IMG-20260322-WA0020.jpg (stesso mittente, stesso minuto)
 
 ---
 
-### 23/3/26, 11:27 — Fabrizio Martini (Fra Martino, narratore)
+### 23/3/26, 11:27 — Fra Martino, narratore
 Immagine collegata: IMG-20260322-WA0023.jpg (stesso mittente, stesso minuto)
 
 > Sotto l'ombra del chiostro, in quel tempo di bruma e di terra umida, Fra Cordino officiava la sua liturgia tra i porri. Il freddo pungeva le mani esperte, ma egli non desisteva, chino sul suolo con la gravità di chi cerca nei solchi una risposta ai misteri del creato. I suoi occhiali, appannati dal respiro ritmato della fatica, catturavano la luce fioca del mattino, mentre il saio si faceva pesante del fango benedetto dell'orto.
@@ -564,7 +564,7 @@ Immagine collegata: IMG-20260322-WA0023.jpg (stesso mittente, stesso minuto)
 
 ---
 
-### 23/3/26, 17:49 — Fabrizio Martini (Fra Martino, narratore)
+### 23/3/26, 17:49 — Fra Martino, narratore
 Immagine collegata: IMG-20260322-WA0024.jpg (stesso mittente, stesso minuto)
 
 > Sotto le volte silenziose dello scriptorium, Padre Pier Poulet officiava la sua liturgia di calamo e pergamena. In quel tempo di luci fioche, egli si chinava sui codici antichi con la precisione di un chirurgo dell'anima, districando i nodi di un latino barbaro che resisteva alla comprensione. Ogni lettera vergata era un mattone posto per la gloria del sapere, e il fruscio della carta pecora risuonava tra le pietre come un sussurro di spiriti millenari che chiedevano di non essere dimenticati.
@@ -572,7 +572,7 @@ Immagine collegata: IMG-20260322-WA0024.jpg (stesso mittente, stesso minuto)
 
 ---
 
-### 23/3/26, 19:08 — Fabrizio Martini (Fra Martino, narratore)
+### 23/3/26, 19:08 — Fra Martino, narratore
 Immagine collegata: IMG-20260323-WA0038.jpg (stesso mittente, stesso minuto)
 
 > Cari confratelli, in quell'ora in cui il sole bacia le terre basse e la pietra scolpita del chiostro ancora trattiene il calore del meriggio, l'Abate Elfo si è affacciato alla loggia superiore. Il suo sguardo, fermo e inamovibile come una colonna portante, accarezzava le valli che si stendono ai piedi dell'Abbatīa, là dove il fango si fa segale e la fatica dei secolari si trasforma nel pane della nostra mensa. Tutto era silenzio, interrotto solo dal respiro della valle.
@@ -585,7 +585,7 @@ Immagine collegata: IMG-20260323-WA0038.jpg (stesso mittente, stesso minuto)
 
 ---
 
-### 25/3/26, 13:29 — Fabrizio Martini (Fra Martino, narratore)
+### 25/3/26, 13:29 — Fra Martino, narratore
 Immagine collegata: IMG-20260325-WA0010.jpg (stesso mittente, stesso minuto)
 
 > In quel tempo, le dispense dell'Abbatīa piangevano l'assenza del sale, quel cristallo di luce necessario a preservare i frutti del lavoro di Gineprone e a dare sapore alla scialba zuppa di segale.
@@ -616,8 +616,8 @@ Immagine collegata: IMG-20260325-WA0010.jpg (stesso mittente, stesso minuto)
 
 ---
 
-### 26/3/26, 18:44 — Lorenzo Cordini (narratore onnisciente)
-Immagini collegate: IMG-20260326-WA0021.jpg, IMG-20260326-WA0022.jpg (allegate da Fabrizio Martini alle 18:50 e 19:00)
+### 26/3/26, 18:44 — narratore onnisciente
+Immagini collegate: IMG-20260326-WA0021.jpg, IMG-20260326-WA0022.jpg (allegate da Fra Martino alle 18:50 e 19:00)
 
 > In una sera di primavera, quando già si pensava che il freddo fosse ormai un ricordo dell'inverno, accadde che sull'Abbatīa tornasse un vento gelido. Il cielo si fece lattiginoso e, con sorpresa dei confratelli, cominciarono a cadere leggere falde di neve che imbiancarono l'orto e il piccolo laghetto.
 >
@@ -639,7 +639,7 @@ Immagini collegate: IMG-20260326-WA0021.jpg, IMG-20260326-WA0022.jpg (allegate d
 
 ---
 
-### 27/3/26, 17:33 — Fabrizio Martini (Fra Martino, narratore)
+### 27/3/26, 17:33 — Fra Martino, narratore
 Immagine collegata: IMG-20260327-WA0025.jpg (stesso mittente, stesso minuto)
 
 > Sotto l'ombra del chiostro dell'Abbatīa, laddove il tempo sembra sostare tra le pietre umide di salnitro, i confratelli si riunirono per tracciare il cammino verso il Giorno del Signore. Il sole declinava, gettando lunghe ombre vermiglie sulle pergamene che Padre Pier Poulet teneva strette al petto come reliquie. Il silenzio era denso.
@@ -658,8 +658,8 @@ Immagine collegata: IMG-20260327-WA0025.jpg (stesso mittente, stesso minuto)
 
 ---
 
-### 28/3/26, 08:45 — Pier Paolo Minori (Padre Pier Poulet)
-Immagine collegata: IMG-20260328-WA0002.jpg (allegata da Lorenzo Cordini il giorno dopo, 29/3, 09:41)
+### 28/3/26, 08:45 — Padre Pier Poulet
+Immagine collegata: IMG-20260328-WA0002.jpg (allegata da Fra Cordino il giorno dopo, 29/3, 09:41)
 
 > *Padre PP* si destò ben prima del canto del gallo — animale peraltro inviso a Fra Martino, il quale non cessava di vagheggiarne una trasfigurazione culinaria in forma di _finanziera piemontese_, con creste e zampe debitamente accomodate —, quando il cielo, ancora avvolto nel suo manto notturno, iniziava appena a schiarirsi, istante dopo istante.
 > Avrebbe desiderato indugiare ancora nel riposo; tuttavia, il richiamo del manoscritto si fece imperioso, quasi animato da un'inconfessabile agitazione dell'ipotalamo, che l'Abate Elfo non esitava a stigmatizzare sotto la discutibile, e alquanto oscura, denominazione di _libido sciendi_.
@@ -698,7 +698,7 @@ Immagine collegata: IMG-20260328-WA0002.jpg (allegata da Lorenzo Cordini il gior
 
 ---
 
-### 28/3/26, 10:58 — Lorenzo Cordini (narratore onnisciente)
+### 28/3/26, 10:58 — narratore onnisciente
 *Nessuna immagine collegata.*
 
 > Un pomeriggio di tarda primavera, ma con l'aria ancora pungente, Padre Pierre Poulet scese nelle cucine dell'Abbatīa. Il suo passo era incerto: abituato ai manoscritti e ai silenzi delle celle, ora si trovava tra pentole di rame, pentolini ribollenti e odori che lo fecero starnutire più volte.
@@ -723,7 +723,7 @@ Immagine collegata: IMG-20260328-WA0002.jpg (allegata da Lorenzo Cordini il gior
 
 ---
 
-### 29/3/26, 12:31 — Fabrizio Martini (Fra Martino, narratore)
+### 29/3/26, 12:31 — Fra Martino, narratore
 *Nessuna immagine collegata.*
 
 > Cari confratelli,
@@ -734,7 +734,7 @@ Immagine collegata: IMG-20260328-WA0002.jpg (allegata da Lorenzo Cordini il gior
 
 ---
 
-### 29/3/26, 20:42 — Lorenzo Cordini (narratore onnisciente)
+### 29/3/26, 20:42 — narratore onnisciente
 *Nessuna immagine collegata.*
 
 > Nella grande sala del monastero che ospitava il convivio ardeva un fuoco tranquillo nel camino. Era una sera fredda, e la luce delle candele faceva tremolare lunghe ombre sulle pareti di pietra. Il reverendo **Abate Elfo** era stato invitato da alcuni religiosi della regione a condividere la mensa e la conversazione, come spesso accadeva quando uomini di lettere e di spirito si riunivano per discutere delle cose alte e basse del mondo.
@@ -800,7 +800,7 @@ Immagine collegata: IMG-20260328-WA0002.jpg (allegata da Lorenzo Cordini il gior
 
 ---
 
-### 30/3/26, 18:08 — Fabrizio Martini (Fra Martino, narratore)
+### 30/3/26, 18:08 — Fra Martino, narratore
 *Nessuna immagine collegata.*
 
 > Cari Confratelli, oggi è il Lunedì Santo e ci avviciniamo alla Santa Pasqua nell'Abbatīa.
@@ -821,7 +821,7 @@ Immagine collegata: IMG-20260328-WA0002.jpg (allegata da Lorenzo Cordini il gior
 
 ---
 
-### 30/3/26, 20:07 — Lorenzo Cordini (narratore onnisciente)
+### 30/3/26, 20:07 — narratore onnisciente
 *Nessuna immagine collegata.*
 
 > Nel pomeriggio quieto dell'**Abbatīa**, quando il sole di primavera filtrava tra i rami ancora radi del frutteto, **Fra Martino** chiamò a raccolta **Fra Cordino** e **Padre Pierre Poulet** nelle cucine.
@@ -886,15 +886,15 @@ Immagine collegata: IMG-20260328-WA0002.jpg (allegata da Lorenzo Cordini il gior
 
 ---
 
-### 31/3/26, 19:49 — Andreas Pieralli (Abate Elfo)
+### 31/3/26, 19:49 — Abate Elfo
 Immagine collegata: IMG-20260331-WA0013.jpg (stesso mittente, stesso minuto)
 
 > È con sommo rammarico e profondo sconforto chel'Abate Elfo è stato costretto a rimanere in ABBATĪA S.G. per ottemperare a tutte le incombenze assolutamente inderogabili, come per esempio l'inventario delle trote, che nessun altro al suo posto avrebbe potuto fare e, di conseguenza, con grande tristezza ha dovuto lasciare i suoi confratelli partire da soli per combattere i saraceni. Ma è loro vicinissimo nell'anima e nello spirito!
 
 ---
 
-### 31/3/26, 22:05 — Lorenzo Cordini (narratore onnisciente)
-Immagine collegata: IMG-20260331-WA0015.jpg (allegata da Andreas Pieralli alle 23:00)
+### 31/3/26, 22:05 — narratore onnisciente
+Immagine collegata: IMG-20260331-WA0015.jpg (allegata da Abate Elfo alle 23:00)
 
 > La tempesta di neve era giunta improvvisa sull'Abbatīa, quasi un capriccio del cielo primaverile. I tetti del chiostro erano stati sferzati dal vento, l'orto di **Fra Cordino** era rimasto coperto da una coltre bianca e **Fra Martino** aveva dovuto correre a chiudere le imposte della cucina mentre i confratelli guardavano stupiti i fiocchi turbinare nel cortile.
 >
@@ -928,7 +928,7 @@ Immagine collegata: IMG-20260331-WA0015.jpg (allegata da Andreas Pieralli alle 2
 
 ---
 
-### 31/3/26, 23:02 — Fabrizio Martini (Fra Martino, narratore)
+### 31/3/26, 23:02 — Fra Martino, narratore
 *Nessuna immagine collegata a questo primo messaggio (l'immagine arriva col messaggio successivo).*
 
 > In questo Martedì Santo, mentre la luce del mattino filtrava tra le arcate del chiostro come polvere d'oro, il mio spirito cercava la penitenza, ma i miei passi, ahimè, cercavano gli asparagi.
@@ -942,7 +942,7 @@ Immagine collegata: IMG-20260331-WA0015.jpg (allegata da Andreas Pieralli alle 2
 
 ---
 
-### 31/3/26, 23:18 — Fabrizio Martini (Fra Martino, narratore)
+### 31/3/26, 23:18 — Fra Martino, narratore
 Immagine collegata: IMG-20260331-WA0017.jpg (stesso mittente, allegata alle 23:33)
 
 > Saggio Abate Elfo, la vostra saggezza fende la nebbia del mattino come il canto di Compieta fende la notte.
@@ -963,7 +963,7 @@ Immagine collegata: IMG-20260331-WA0017.jpg (stesso mittente, allegata alle 23:3
 
 ---
 
-### 1/4/26, 12:47 — Fabrizio Martini (Fra Martino, narratore)
+### 1/4/26, 12:47 — Fra Martino, narratore
 Immagine collegata: IMG-20260401-WA0003.jpg (stesso mittente, stesso minuto)
 
 > In questo Mercoledì di Passione, mentre il cielo sopra l'Abbatīa si tinge del colore del piombo e il vento fustiga i mandorli in fiore, il silenzio è stato rotto non dal coro, ma dal sordo rintocco del dubbio.
@@ -990,7 +990,7 @@ Immagine collegata: IMG-20260401-WA0003.jpg (stesso mittente, stesso minuto)
 
 ---
 
-### 2/4/26, 09:43 — Fabrizio Martini (Fra Martino, narratore)
+### 2/4/26, 09:43 — Fra Martino, narratore
 Immagine collegata: IMG-20260402-WA0001.jpg (stesso mittente, stesso minuto)
 
 > In questo Giovedì Santo, l'aria dell'Abbatīa è satura di incenso e dell'umidità delle pietre antiche che trasudano attesa. È il giorno del *Mandatum, il momento in cui la suprema autorità si piega dinanzi alla polvere del cammino*.
@@ -1007,7 +1007,7 @@ Immagine collegata: IMG-20260402-WA0001.jpg (stesso mittente, stesso minuto)
 
 ---
 
-### 3/4/26, 14:22 — Fabrizio Martini (Fra Martino, narratore)
+### 3/4/26, 14:22 — Fra Martino, narratore
 Immagine collegata: IMG-20260403-WA0006.jpg (stesso mittente, allegata un minuto dopo)
 
 > Cari confratelli,
@@ -1026,7 +1026,7 @@ Immagine collegata: IMG-20260403-WA0006.jpg (stesso mittente, allegata un minuto
 
 ---
 
-### 3/4/26, 20:41-20:42 — Andreas Pieralli (Abate Elfo, cornice narrativa)
+### 3/4/26, 20:41-20:42 — Abate Elfo, cornice narrativa
 Immagine collegata: IMG-20260403-WA0010.jpg (stesso mittente, stesso minuto)
 
 > Infuriato per cotanta lascività, l'Abate Elfo li cacciò tutti, asino compreso, e chiamò invece lei:
@@ -1037,22 +1037,22 @@ Immagine collegata: IMG-20260403-WA0010.jpg (stesso mittente, stesso minuto)
 
 ---
 
-### 3/4/26, 20:53 — Andreas Pieralli (narratore, episodio "il bidet")
+### 3/4/26, 20:53 — narratore, episodio "il bidet"
 Immagine collegata: IMG-20260404-WA0000.jpg (stesso mittente, il giorno dopo alle 20:54)
 
 > Forse non tutti sanno che, prima di entrare in ABBATĪA, Fra Cordino aveva fatto voto di non abusare del suo spirito burlesco perché l'Abate Elfo si attiene rigidamente alla regola del venerabile Jorge del Nome della Rosa, secondo cui _"Il riso scuote il corpo, deforma i lineamenti del viso, rende l'uomo simile alla scimmia"_ e che secondo il quale il secondo libro della commedia di Aristotele non esiste semplicemente perché non è mai stato scritto. Eppure, dopo che in ABBATĪA è entrato Fra Martino, il comportamento di Fra Cordino è cambiato molto iniziando a manifestare dei rigurgiti burleschi. Ecco dunque che, durante la Sacra Lavanda dei piedi, ad un certo punto, in un momento di particolare solennità, Fra Cordino ha rivolto lo sguardo verso l'Abate Elfo e, con voce umile e sommessa, gli ha detto: "Abate Elfo. Stamattina avrei dimenticato di fare il bidet."
 
 ---
 
-### 4/4/26, 10:31 — Andreas Pieralli (narratore)
+### 4/4/26, 10:31 — narratore
 Immagini collegate: IMG-20260404-WA0005.jpg, IMG-20260404-WA0004.jpg (stesso mittente, stesso minuto)
 
 > Chi sperava di poter trascorrere in laetitia la Santa Pasqua in compagnia di Fra Cordino rimarrà, purtroppo, deluso, in quanto il nostro, dopo il temibilissimo ischerzo del _"Abate Elfo. Stamattina avrei dimenticato di fare il bidet"_ si vede prolungata la permanenza in cella per non aver ottemperato alla sua stessa promessa di far sapere per tempo all'Abate Elfo se si sarebbe o meno unito al pellegrinaggio verso la Santa Città di Kolín.
 
 ---
 
-### 4/4/26, 11:50 — Lorenzo Cordini (narratore onnisciente)
-Immagine collegata: IMG-20260404-WA0006.jpg (allegata da Lorenzo Cordini stesso poco dopo, alle 10:38 del giorno stesso — nota: il messaggio precedente di Lorenzo è delle 10:35)
+### 4/4/26, 11:50 — narratore onnisciente
+Immagine collegata: IMG-20260404-WA0006.jpg (allegata da Fra Cordino stesso poco dopo, alle 10:38 del giorno stesso — nota: il messaggio precedente di Fra Cordino è delle 10:35)
 
 > La neve si era ormai ritirata dai prati attorno all'abbazia e l'aria di primavera portava con sé un odore di terra umida e di legna bagnata. Nel chiostro regnava una quiete operosa: **Fra Martino** era nell'orto a controllare le giovani piantine, **Padre Pierre Poulet** correggeva alcune pagine di una traduzione, mentre il **reverendo Abate Elfo** passeggiava lentamente con le mani dietro la schiena, come era solito fare quando meditava sulle questioni della comunità.
 >
@@ -1116,7 +1116,7 @@ Immagine collegata: IMG-20260404-WA0006.jpg (allegata da Lorenzo Cordini stesso 
 
 ---
 
-### 4/4/26, 12:19 — Fabrizio Martini (Fra Martino, narratore)
+### 4/4/26, 12:19 — Fra Martino, narratore
 Immagine collegata: IMG-20260404-WA0007.jpg (stesso mittente, stesso minuto)
 
 > Cari confratelli, nel silenzio sospeso di questo Sabato Santo, mentre l'Abbatīa trattiene il respiro nell'attesa della luce che vince la tenebra, io, Fra Martino, ho stretto i lacci dei miei sandali per seguire l'ombra solenne e imponente di Abate Elfo. Abbiamo intrapreso il cammino verso la cattedrale di Kolín, dove le pietre antiche trasudano la memoria dei secoli, per deporre ai piedi dell'altare il fardello delle nostre fragilità umane. È un pellegrinaggio di espiazione, necessario quanto il pane e l'acqua, affinché il fumo delle tentazioni di Don Massimetto Catrame non offuschi più la limpidezza della nostra regola. Chiederemo con umiltà che il veleno del Solitario Acidasco venga lavato via, poiché la sua cattiveria è una piaga che morde il fianco della nostra carità fraterna. Non dimenticheremo, nel segreto del confessionale, di invocare clemenza per le cadute di Fra Cordino, la cui anima sembra smarrirsi troppo spesso tra i fumi della cucina e il torpore del giaciglio, quasi che il peccato di gola fosse una liturgia e l'ignavia un dovere. La carne è debole, ma la pietra della cattedrale è salda.
@@ -1125,14 +1125,14 @@ Immagine collegata: IMG-20260404-WA0007.jpg (stesso mittente, stesso minuto)
 
 ---
 
-### 4/4/26, 14:19 — Fabrizio Martini (Fra Martino, narratore)
+### 4/4/26, 14:19 — Fra Martino, narratore
 Immagine collegata: IMG-20260404-WA0013.jpg (stesso mittente, stesso minuto)
 
 > Cari confratelli, mentre il calore del giorno baciava le mura esterne della cattedrale, ho osservato Abate Elfo restare a lungo immobile dinanzi alla sacra lapide, quasi a voler assorbire dal marmo la pazienza dei secoli. Le sue mani, nodose e sapienti, hanno accarezzato le antiche lettere per invocare una protezione speciale e per espiare, in un atto di suprema carità, le quotidiane sbandate di Fra Cordino. È stata una supplica muta e solenne, volta a trasformare i peccati di gola e i ritardi del nostro caro confratello in cenere di penitenza, affinché la luce della virtù torni a brillare anche sotto gli occhiali di chi troppo spesso confonde l'ora del mattutino con quella del pasto. Pace a voi in questo cammino di redenzione.
 
 ---
 
-### 4/4/26, 14:24 — Lorenzo Cordini (Fra Cordino)
+### 4/4/26, 14:24 — Fra Cordino
 *Nessuna immagine collegata.*
 
 > *Dalla cella penitenziale dell'Abbazia*
@@ -1152,7 +1152,7 @@ Immagine collegata: IMG-20260404-WA0013.jpg (stesso mittente, stesso minuto)
 
 ---
 
-### 5/4/26, 09:24 — Lorenzo Cordini (narratore onnisciente; introduce il cane Birillo)
+### 5/4/26, 09:24 — narratore onnisciente; introduce il cane Birillo
 *Nessuna immagine collegata.*
 
 > La primavera era giunta all'**Abbatīa** con passo timido. La neve si era ritirata nei recessi più ombrosi del bosco e l'aria portava un profumo nuovo, verde e pungente.
@@ -1209,7 +1209,7 @@ Immagine collegata: IMG-20260404-WA0013.jpg (stesso mittente, stesso minuto)
 
 ---
 
-### 5/4/26, 09:48 — Fabrizio Martini (Fra Martino, narratore)
+### 5/4/26, 09:48 — Fra Martino, narratore
 Immagine collegata: IMG-20260405-WA0004.jpg (stesso mittente, stesso minuto)
 
 > È Pasqua, cari confratelli. In quel tempo di resurrezione, mentre la luce dell'alba carezzava i capitelli scolpiti del chiostro, l'Abbatīa fu scossa da un evento di carnale letizia. Il Conte Bonifacio, giunto dalle calde terre di Sicilia con un seguito di carri che pareva non finire mai, aveva deciso di manifestare la sua fede attraverso un'opulenza quasi imbarazzante.
@@ -1229,14 +1229,14 @@ Immagine collegata: IMG-20260405-WA0004.jpg (stesso mittente, stesso minuto)
 
 ---
 
-### 5/4/26, 13:01 — Fabrizio Martini (Fra Martino, narratore)
+### 5/4/26, 13:01 — Fra Martino, narratore
 Immagini collegate: IMG-20260405-WA0011.jpg, IMG-20260405-WA0010.jpg (stesso mittente, stesso minuto)
 
 > Saggio Abate, sotto l'ombra del chiostro si consuma un amaro tradimento proprio mentre le campane dovrebbero annunciare la gloria della Risurrezione, poiché Don Massimetto Catrame e le tre suore hanno riposto i poveri cilici per farsi sedurre dai riflessi dorati di un uomo che la Provvidenza sembra aver mandato a metterci alla prova. Si sono lasciati condurre lontano dalle austere pietre dell'Abbatīa per rifugiarsi in quella che viene chiamata la riserva di Nusle-Vinohrady-Vyšehrad, un luogo che nell'immaginazione di questo nuovo e singolare personaggio, tal *Barone Gemelli il Vanitoso*, diviene un unico ed immenso feudo di delizie. Il Barone, una mole di carne compressa in broccati troppo stretti e carichi d'oro rubato ai mercati neri delle retrovie, occupa ogni spazio con la sua presenza opulenta e millanta nobiltà tra i vicoli di Nusle sol perché il suo borsello, svuotato dalle troppe vanità, non gli ha permesso di prender dimora sul colle di Vinohrady. Egli non tace mai, posseduto da una logorrea che è un assalto all'anima, e le sue parole giungono a noi come un enigma sonoro, un dialetto calabrese arcaico e gutturale che mescola pretese auliche a suoni di terra incomprensibile, una danza di specchi in cui egli contempla la propria bellezza mentre le sue mani, cariche di anelli pesanti come macine, indicano palazzi invisibili. In questo giorno di Pasqua la temperanza è stata sacrificata al banchetto della vanità, dove il Barone Gemelli regna su un impero di apparenze fatto di pizzi sudati e vanti d'altri tempi. Che la luce del vero discernimento possa guidare i nostri passi verso la via della semplicità. Pace a voi.
 
 ---
 
-### 6/4/26, 15:14 — Fabrizio Martini (Fra Martino, narratore)
+### 6/4/26, 15:14 — Fra Martino, narratore
 Immagine collegata: IMG-20260406-WA0002.jpg (stesso mittente, stesso minuto)
 
 > Cari confratelli, in occasione del Lunedì dell'Angelo, l'Abate Elfo ha decretato che il silenzio meditativo del chiostro venisse interrotto dal crepitio della legna ardente e dal profumo del grasso che si immola sulla brace. Per officiare questo rito della carne, egli ha convocato tra le nostre mura l'Orco di Ostrava, un titano giunto dalla terra d'Albania, le cui mani callose governano il fuoco con la stessa precisione con cui un amanuense traccia la prima lettera di un Vangelo.
@@ -1250,8 +1250,8 @@ Immagine collegata: IMG-20260406-WA0002.jpg (stesso mittente, stesso minuto)
 
 ---
 
-### 14/4/26, 21:33 — Lorenzo Cordini (narratore onnisciente, tono thriller)
-Immagine collegata: IMG-20260414-WA0009.jpg (allegata da Fabrizio Martini il giorno dopo, alle 22:50)
+### 14/4/26, 21:33 — narratore onnisciente, tono thriller
+Immagine collegata: IMG-20260414-WA0009.jpg (allegata da Fra Martino il giorno dopo, alle 22:50)
 
 > La sera era calata lenta sull'Abbatìa, come una coperta di lana tirata su un corpo stanco. Nei corridoi di pietra, il silenzio era rotto soltanto da qualche passo lontano e dal crepitare sommesso delle candele.
 >
@@ -1313,8 +1313,8 @@ Immagine collegata: IMG-20260414-WA0009.jpg (allegata da Fabrizio Martini il gio
 
 ---
 
-### 23/4/26, 19:46 — Lorenzo Cordini (narratore onnisciente, introduce Fra Cipolla)
-Immagine collegata: IMG-20260425-WA0007.jpg (allegata due giorni dopo, 25/4, da Lorenzo Cordini)
+### 23/4/26, 19:46 — narratore onnisciente, introduce Fra Cipolla
+Immagine collegata: IMG-20260425-WA0007.jpg (allegata due giorni dopo, 25/4, da Fra Cordino)
 
 > Fra Cipolla giunse all'Abbatīa sul far del vespro, quando le ultime luci del giorno si posavano come oro pallido sulle pietre antiche del chiostro. Veniva da un monastero lontano, oltre colline e fiumi, e diceva d'essere in pellegrinaggio verso una regione rinomata per le sue prelibatezze: terre dove, a suo dire, anche l'aria pareva profumare di burro fuso e spezie.
 >
@@ -1352,7 +1352,7 @@ Immagine collegata: IMG-20260425-WA0007.jpg (allegata due giorni dopo, 25/4, da 
 
 ---
 
-### 25/4/26, 12:44 — Pier Paolo Minori (narratore, episodio "il twist")
+### 25/4/26, 12:44 — narratore, episodio "il twist"
 *Nessuna immagine collegata.*
 
 > La notte era discesa sull'ABBATĪA con una dolcezza insolita, come se la primavera, giunta da poco tra le colline, avesse voluto posare un velo di quiete sulle antiche pietre.
@@ -1395,7 +1395,7 @@ Immagine collegata: IMG-20260425-WA0007.jpg (allegata due giorni dopo, 25/4, da 
 
 ---
 
-### 26/5/26, 21:03 — Lorenzo Cordini (narratore onnisciente; assedio e "Antica Abbatīa di San Gineprio")
+### 26/5/26, 21:03 — narratore onnisciente; assedio e "Antica Abbatīa di San Gineprio"
 *Nessuna immagine collegata.*
 
 > Nel cuore di una valle remota, stretta tra boschi neri di abeti e pendii battuti dal vento, sorgeva l'Antica Abbatīa di San Gineprio. Da secoli le sue mura di pietra grigia dominavano il passo, immobili come una montagna scolpita dalla mano di Dio. I contadini dei villaggi vicini dicevano che nessun predone fosse mai riuscito a violarne le porte, e che persino durante le antiche guerre delle Marche del Nord le sue campane avessero continuato a suonare serene sopra il fragore delle battaglie.
@@ -1472,14 +1472,14 @@ Immagine collegata: IMG-20260425-WA0007.jpg (allegata due giorni dopo, 25/4, da 
 
 ---
 
-### 31/5/26, 22:07 — Fabrizio Martini (Fra Martino, narratore)
+### 31/5/26, 22:07 — Fra Martino, narratore
 Immagine collegata: IMG-20260531-WA0009.jpg (stesso mittente, stesso minuto)
 
 > Cari confratelli, sotto l'ombra del chiostro dove il tempo si misura solo nel lento stillicidio della rugiada, vi narro come il Conte Bonifacio abbia varcato la soglia della nostra comunità per cercare ristoro presso la Foresteria: Ontano di Pilsen; egli ha reso omaggio alla penombra delle nostre mura, trovando nella schiuma ambrata della birra locale quel sollievo terreno che, pur nelle sue fattezze mondane, ha saputo placare per un istante il clamore della sua anima nobile, ricordandoci che anche la materia, se benedetta da una corretta sete, ha il suo posto nell'economia del Creato. Che la temperanza guidi sempre i vostri passi, e la pace dimori nei vostri calici.
 
 ---
 
-### 3/6/26, 20:38 — Fabrizio Martini (Fra Martino, narratore; introduce Don Danilo dei Macerati)
+### 3/6/26, 20:38 — Fra Martino, narratore; introduce Don Danilo dei Macerati
 Immagine collegata: IMG-20260603-WA0008.jpg (stesso mittente, stesso minuto)
 
 > Cari confratelli,
@@ -1490,7 +1490,7 @@ Immagine collegata: IMG-20260603-WA0008.jpg (stesso mittente, stesso minuto)
 
 ---
 
-### 4/6/26, 10:46 — Andreas Pieralli (Abate Elfo, narratore)
+### 4/6/26, 10:46 — Abate Elfo, narratore
 Immagine collegata: IMG-20260604-WA0001.jpg (stesso mittente, stesso minuto)
 
 > L'Abate Elfo guardava dalla bifora della sua cella la figura che avanzava nel chiostro. Era Don Danilo dei Macerati. Il suo passo pesante portava il carico di una storia difficile, intessuta di scelte scellerate e comportamenti malvagi che per anni avevano seminato dolore nelle vite degli altri. Ora, quell'uomo dal passato così peccaminoso chiedeva di varcare la soglia dell'*ABBATĪA* cercando una vicinanza che somigliava a una richiesta di pace.
@@ -1503,7 +1503,7 @@ Immagine collegata: IMG-20260604-WA0001.jpg (stesso mittente, stesso minuto)
 
 ---
 
-### 15/6/26, 19:12 — Lorenzo Cordini (narratore onnisciente; introduce Fra Teobaldo e Fra Galdino)
+### 15/6/26, 19:12 — narratore onnisciente; introduce Fra Teobaldo e Fra Galdino
 *Nessuna immagine collegata.*
 
 > L'Abbatîa sorgeva sopra un lieve rialzo del terreno, là dove la valle cominciava a farsi più stretta e i boschi di querce lasciavano il posto ai prati umidi. Era il tempo in cui i giorni si allungavano e l'acqua del laghetto rifletteva il cielo come una pagina ancora non scritta.
@@ -1524,7 +1524,7 @@ Immagine collegata: IMG-20260604-WA0001.jpg (stesso mittente, stesso minuto)
 
 ---
 
-### 19/6/26, 08:35 — Fabrizio Martini (Fra Martino, narratore)
+### 19/6/26, 08:35 — Fra Martino, narratore
 Immagine collegata: IMG-20260620-WA0004.jpg (stesso mittente, stesso minuto)
 
 > In quel tempo, l'afa gravava sull'Abbatīa come colpa mai confessata. Fra Cordino, vinto dalla vampa, si immerse – tonaca e tutto – nel laghetto delle carpe.
@@ -1534,7 +1534,7 @@ Immagine collegata: IMG-20260620-WA0004.jpg (stesso mittente, stesso minuto)
 
 ---
 
-### 25/6/26, 13:05 — Lorenzo Cordini (narratore onnisciente)
+### 25/6/26, 13:05 — narratore onnisciente
 *Nessuna immagine collegata.*
 
 > **Cronaca dell'Abbatīa – Al calar del sole**
@@ -1565,7 +1565,7 @@ Immagine collegata: IMG-20260620-WA0004.jpg (stesso mittente, stesso minuto)
 
 ---
 
-### 29/6/26, 14:59 — Fabrizio Martini (Fra Martino, narratore)
+### 29/6/26, 14:59 — Fra Martino, narratore
 Immagine collegata: IMG-20260629-WA0014.jpg (stesso mittente, stesso minuto)
 
 > Cari confratelli,
@@ -1579,7 +1579,7 @@ Immagine collegata: IMG-20260629-WA0014.jpg (stesso mittente, stesso minuto)
 
 ---
 
-### 7/7/26, 17:02 — Fabrizio Martini (Fra Martino, narratore)
+### 7/7/26, 17:02 — Fra Martino, narratore
 Immagini collegate: IMG-20260707-WA0011.jpg, IMG-20260707-WA0012.jpg (stesso mittente, poco prima)
 
 > Il chiostro ora avverte il vuoto del suo passo, ma resta impresso nella memoria il gesto di Fra Cordino: colui che, vinta la propria naturale inclinazione verso le ghiottonerie terrene, si fece servo umile, lavando i piedi dell'ospite con la stessa cura che si riserba ai calici della liturgia. Quel bacio impresso sulla pelle stanca fu l'unico, muto saluto che la nostra miseria potette offrire alla sua grandezza.
@@ -1587,7 +1587,7 @@ Immagini collegate: IMG-20260707-WA0011.jpg, IMG-20260707-WA0012.jpg (stesso mit
 
 ---
 
-### 7/7/26, 17:15 — Fabrizio Martini (Fra Martino, narratore)
+### 7/7/26, 17:15 — Fra Martino, narratore
 Immagine collegata: IMG-20260707-WA0015.jpg (stesso mittente, stesso minuto)
 
 > Cari confratelli,
@@ -1605,7 +1605,7 @@ Immagine collegata: IMG-20260707-WA0015.jpg (stesso mittente, stesso minuto)
 
 ---
 
-### 10/7/26, 11:33 — Fabrizio Martini (Fra Martino, narratore)
+### 10/7/26, 11:33 — Fra Martino, narratore
 Immagini collegate: IMG-20260710-WA0001.jpg, IMG-20260708-WA0003.jpg (stesso mittente, stesso messaggio)
 
 > Cari confratelli,
@@ -1615,7 +1615,7 @@ Immagini collegate: IMG-20260710-WA0001.jpg, IMG-20260708-WA0003.jpg (stesso mit
 
 ---
 
-### 10/7/26, 11:47 — Fabrizio Martini (Fra Martino) e 11:55 — Lorenzo Cordini (Fra Cordino)
+### 10/7/26, 11:47 — Fra Martino (Fra Martino) e 11:55 — Fra Cordino
 *Nessuna immagine collegata (dialogo epistolare, gioco di parole tra "Embajador Martini" in Argentina e "Ghiacciaio Cordini" in Antartide, entrambi luoghi reali).*
 
 > Caro Fra Cordino,
@@ -1633,7 +1633,7 @@ Immagini collegate: IMG-20260710-WA0001.jpg, IMG-20260708-WA0003.jpg (stesso mit
 
 ---
 
-### 11/7/26, 21:25 — Fabrizio Martini (Fra Martino, narratore; introduce "Fra Crodino")
+### 11/7/26, 21:25 — Fra Martino, narratore; introduce "Fra Crodino"
 Immagine collegata: IMG-20260711-WA0015.jpg (stesso mittente, stesso minuto)
 
 > Cari confratelli, corre voce tra le pietre umide della navata che il nostro caro Fra Cordino, sempre cinto dai suoi fedeli occhiali, abbia varcato i confini della nostra quiete per recarsi alla Restaurace U Kašpárka.
@@ -1652,7 +1652,7 @@ Immagine collegata: IMG-20260711-WA0015.jpg (stesso mittente, stesso minuto)
 
 ---
 
-### 13/7/26, 22:30 — Lorenzo Cordini (narratore onnisciente) — versione originale
+### 13/7/26, 22:30 — Fra Cordino (narratore onnisciente) — versione originale
 *Nessuna immagine collegata.*
 
 > L'alba si levò silenziosa sulla valle, e una leggera foschia saliva dal laghetto dove le carpe rompevano appena la superficie dell'acqua. Le anatre e le oche, ancora assonnate, si muovevano lente tra i canneti, mentre la campana dell'Abbatīa di San Gineprio chiamava i confratelli alla preghiera.
@@ -1703,7 +1703,7 @@ Immagine collegata: IMG-20260711-WA0015.jpg (stesso mittente, stesso minuto)
 
 ---
 
-### 14/7/26, 09:23 — Lorenzo Cordini (narratore onnisciente) — revisione del brano sul risotto
+### 14/7/26, 09:23 — Fra Cordino (narratore onnisciente) — revisione del brano sul risotto
 *Nessuna immagine collegata.*
 
 > Quando fecero ritorno all'Abbatīa, Fra Martino li attendeva già davanti alla cucina. Uomo robusto e paziente, osservò il raccolto con soddisfazione.
@@ -1716,7 +1716,7 @@ Immagine collegata: IMG-20260711-WA0015.jpg (stesso mittente, stesso minuto)
 
 ---
 
-### 14/7/26, 09:27 — Lorenzo Cordini (narratore onnisciente) — estensione con il flashback di Fra Giorgione
+### 14/7/26, 09:27 — Fra Cordino (narratore onnisciente) — estensione con il flashback di Fra Giorgione
 *Nessuna immagine collegata.*
 
 > Fra Martino rimase per qualche istante a osservare il riso che sobbolliva lentamente nella pentola di rame. Il profumo dei porcini gli riportò alla mente un ricordo custodito da molti anni.
@@ -1769,7 +1769,7 @@ Immagine collegata: IMG-20260711-WA0015.jpg (stesso mittente, stesso minuto)
 
 ---
 
-### 14/7/26, 16:39 — Fabrizio Martini (Fra Martino, narratore; introduce Fra Marco da Dama)
+### 14/7/26, 16:39 — Fra Martino, narratore; introduce Fra Marco da Dama
 Immagine collegata: IMG-20260714-WA0007.jpg (stesso mittente, stesso minuto)
 
 > Il rintocco di Sesta fluttuava ancora tra le volte umide del transetto quando un boato, simile al crollo d'un solaio gravato di saggina, squarciò la quiete claustrale: «BENVENUTI NELLA CASA DEL SIGNORE, O PELLEGRINI DELLA MISERIA!».
