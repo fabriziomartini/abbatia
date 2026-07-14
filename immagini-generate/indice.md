@@ -40,7 +40,6 @@ La colonna **"Personaggio raffigurato"** è stata aggiunta incrociando indizi vi
 | 2/4/26 | IMG-20260402-WA0001.jpg | Fra Martino — la lavanda dei piedi (Mandatum), 09:43 | | Gruppo (Abate Elfo, Fra Cordino, Padre Pier Poulet) (confidenza: media) |
 | 2/4/26 | IMG-20260402-WA0003.jpg | Fra Martino — processione/Via Crucis, 10:51 | | Fra Cordino (confidenza: media) |
 | 3/4/26 | IMG-20260403-WA0006.jpg | Fra Martino — arrivo di Don Massimetto Catrame, 14:22 | DUBBIA — tono più comico/moderno | Don Massimetto Catrame (confidenza: alta) |
-| 4/4/26 | IMG-20260404-WA0000.jpg | Abate Elfo — episodio del "bidet", Fra Cordino nella cripta, 20:54 | | Gruppo (Abate Elfo, Fra Cordino) (confidenza: media) |
 | 4/4/26 | IMG-20260404-WA0007.jpg | Fra Martino — pellegrinaggio verso Kolín, 12:19 | DUBBIA — potrebbe essere foto reale in costume | Gruppo (Abate Elfo, Fra Martino) (confidenza: alta, confermato dall'utente) |
 | 4/4/26 | IMG-20260404-WA0013.jpg | Fra Martino — davanti alla cattedrale di Kolín, 14:19 | | Abate Elfo (confidenza: alta, confermato dall'utente) |
 | 5/4/26 | IMG-20260405-WA0004.jpg | Fra Martino — il banchetto del Conte Bonifacio, 09:48 | | Gruppo (Conte Bonifacio, Abate Elfo, Fra Cordino, Fra Martino) (confidenza: media) |
@@ -61,8 +60,8 @@ La colonna **"Personaggio raffigurato"** è stata aggiunta incrociando indizi vi
 ## Riepilogo
 
 - **File esaminati**: 120 (tutti gli `IMG-*.jpg` in `chat/`)
-- **Copiati come "arte generata coerente"**: 49 (58 classificate inizialmente; 9 rimosse dall'utente: 2 perché non generate da lui — IMG-20260403-WA0010.jpg, IMG-20260604-WA0001.jpg — 6 perché scene di gruppo/fantastiche senza personaggi riconoscibili con certezza — IMG-20260319-WA0007.jpg, IMG-20260326-WA0000.jpg, IMG-20260329-WA0001.jpg, IMG-20260331-WA0013.jpg, IMG-20260331-WA0015.jpg, IMG-20260404-WA0005.jpg — e 1 fuori tema — IMG-20260629-WA0013.jpg)
-- **Scartati** (foto reali, selfie, screenshot, meme, vignette, contenuti politici/non pertinenti, o rimossi dall'utente): 71
+- **Copiati come "arte generata coerente"**: 48 (58 classificate inizialmente; 10 rimosse dall'utente: 2 perché non generate da lui — IMG-20260403-WA0010.jpg, IMG-20260604-WA0001.jpg — 6 perché scene di gruppo/fantastiche senza personaggi riconoscibili con certezza — IMG-20260319-WA0007.jpg, IMG-20260326-WA0000.jpg, IMG-20260329-WA0001.jpg, IMG-20260331-WA0013.jpg, IMG-20260331-WA0015.jpg, IMG-20260404-WA0005.jpg — 1 fuori tema — IMG-20260629-WA0013.jpg — e 1 rimossa successivamente su decisione dell'utente — IMG-20260404-WA0000.jpg)
+- **Scartati** (foto reali, selfie, screenshot, meme, vignette, contenuti politici/non pertinenti, o rimossi dall'utente): 72
 - **Segnalati DUBBIA** tra i copiati rimasti: 7 (WA0319-0014, WA0319-0015, WA0319-0040, WA0403-0006, WA0404-0007, WA0405-0010, WA0405-0011)
 
 Esempi tipici di scarto: screenshot di articoli/commenti Facebook, foto reali di grigliate/gite del gruppo di amici, vignette dialettali o politiche (es. `IMG-20260511-WA0003.jpg`, commento Facebook su politica ceca; `IMG-20260620-WA0000.jpg`, vignetta satirica su scuola/religione), meme, screenshot di mappe/chat, copertine di libri o film reali (es. "Il nome della rosa" 1986), foto di luoghi reali non generati (Sacra di San Michele, Klášterní šenk di Praga).
