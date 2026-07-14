@@ -1,6 +1,6 @@
 # Racconti estratti dalla chat WhatsApp "ABBATĪA S.G."
 
-Estrazione integrale dei testi narrativi in stile "liturgico-contemplativo" trovati nell'export `chat/WhatsApp Chat with ABBATĪA S.G..txt`, in ordine cronologico. Sono esclusi i messaggi di puro chiacchiericcio, i link condivisi senza commento narrativo, gli auguri brevi, l'organizzazione logistica reale del gruppo e i meme/vignette non in stile Abbatia. I testi sono riportati integralmente, senza parafrasi, refusi originali inclusi.
+Estrazione integrale dei testi narrativi in stile "liturgico-contemplativo" trovati nell'export `chat/WhatsApp Chat with ABBATĪA S.G..txt`, in ordine cronologico. Sono esclusi i messaggi di puro chiacchiericcio, i link condivisi senza commento narrativo, gli auguri brevi, l'organizzazione logistica reale del gruppo e i meme/vignette non in stile Abbatīa. I testi sono riportati integralmente, senza parafrasi, refusi originali inclusi.
 
 Legenda: **Mittente reale** (personaggio impersonato, se deducibile) — data, ora.
 

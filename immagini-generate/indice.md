@@ -1,6 +1,6 @@
 # Indice delle immagini generate
 
-50 immagini selezionate su 120 file `IMG-*.jpg` presenti in `chat/`, come arte/ritratti coerenti con lo stile "realismo fotografico cinematografico, cupo e medievale" del progetto Abbatia (vedi criteri in `prompts/cronista.md`). Gli originali restano invariati in `chat/`; qui sono copie. Le immagini segnalate **DUBBIA** sono state incluse per sicurezza (secondo le istruzioni) ma hanno elementi che le rendono meno certe: stile a fumetto anziché fotorealistico, possibili foto reali stilizzate, o soggetti senza elementi monastici espliciti.
+50 immagini selezionate su 120 file `IMG-*.jpg` presenti in `chat/`, come arte/ritratti coerenti con lo stile "realismo fotografico cinematografico, cupo e medievale" del progetto Abbatīa (vedi criteri in `prompts/cronista.md`). Gli originali restano invariati in `chat/`; qui sono copie. Le immagini segnalate **DUBBIA** sono state incluse per sicurezza (secondo le istruzioni) ma hanno elementi che le rendono meno certe: stile a fumetto anziché fotorealistico, possibili foto reali stilizzate, o soggetti senza elementi monastici espliciti.
 
 Ordinate cronologicamente per data ripresa dal nome file (`IMG-AAAAMMGG-WA####.jpg`). Dove il racconto collegato è stato individuato nella fase 1 (vedi `cronache/racconti-estratti.md`), è indicato con data/mittente/personaggio.
 
@@ -20,7 +20,7 @@ La colonna **"Personaggio raffigurato"** è stata aggiunta incrociando indizi vi
 | 19/3/26 | IMG-20260319-WA0030.jpg | Fabrizio Martini — ritratti donati alla comunità, 16:06 | | Padre Pier Poulet (confidenza: media) |
 | 19/3/26 | IMG-20260319-WA0037.jpg | Fabrizio Martini (Fra Martino) — al porcarium, 20/3 03:14 | | Fra Martino (confidenza: alta) |
 | 19/3/26 | IMG-20260319-WA0038.jpg | Fabrizio Martini — Gineprone scava il laghetto, 18:09 | | Gineprone (confidenza: alta, confermato dall'utente) |
-| 19/3/26 | IMG-20260319-WA0040.jpg | Andreas Pieralli — mappa/pianta dell'Abbatia, 19:07 | DUBBIA — mappa in stile pergamena, non un ritratto | Scena/ambientazione (nessun personaggio riconoscibile) |
+| 19/3/26 | IMG-20260319-WA0040.jpg | Andreas Pieralli — mappa/pianta dell'Abbatīa, 19:07 | DUBBIA — mappa in stile pergamena, non un ritratto | Scena/ambientazione (nessun personaggio riconoscibile) |
 | 20/3/26 | IMG-20260320-WA0008.jpg | Andreas Pieralli — facciata dell'abbazia, 14:21 | | Scena/ambientazione (nessun personaggio riconoscibile) |
 | 20/3/26 | IMG-20260320-WA0012.jpg | Fabrizio Martini (Fra Martino) — erbe curative, 14:48 | | Fra Martino (confidenza: media) |
 | 20/3/26 | IMG-20260320-WA0023.jpg | Fabrizio Martini (Fra Martino) — messaggio della buonanotte, 20:56 | | Fra Martino (confidenza: media) |
