@@ -198,8 +198,29 @@ p.subtitle{
 @media (max-width:480px){
   .page{padding:2rem 1.3rem 1.8rem;}
 }
+.back-link{
+  position:fixed;
+  top:.9rem;left:.9rem;
+  z-index:10;
+  display:inline-flex;
+  align-items:center;
+  gap:.4rem;
+  background:var(--vellum);
+  border:1px solid var(--vellum-edge);
+  color:var(--ink);
+  text-decoration:none;
+  font-size:.8rem;
+  letter-spacing:.02em;
+  padding:.5rem .9rem;
+  box-shadow:0 6px 16px rgba(0,0,0,.3);
+}
+.back-link:hover{background:var(--vellum-edge);}
+@media (max-width:480px){
+  .back-link{position:static;display:inline-flex;margin-bottom:1rem;}
+}
 </style>
 
+<a class="back-link" href="../index.html">&larr; Il sito dell'Abbat&#299;a</a>
 <div id="stage"></div>
 
 <script>
