@@ -1788,4 +1788,19 @@ Immagine collegata: IMG-20260714-WA0007.jpg (stesso mittente, stesso minuto)
 
 ---
 
-*Fine dell'estrazione. Racconti individuati e riportati: 72. Copertura cronologica: 19 marzo 2026 – 14 luglio 2026 (intero arco della chat).*
+### 15/7/26 — Abate Elfo
+Immagine collegata: burlite.jpg (stesso mittente, stesso minuto)
+
+> In visita presso la parrocchia di San Bartolomeo Apostolo a Sordio, il nobile e curioso Abate Elfo volle incontrare l'allora parroco, il sagace Don Giuseppe, per svelare un dilemma teologico-umoristico.
+>
+> «Reverendo,» esordì l'Abate con tono squisitamente forbito, «qual è l'arcano segreto dietro l'inarrivabile e burlesca simpatia di Fra Cordino, vostro illustre concittadino?»
+>
+> Don Giuseppe sorrise sornione, passandosi una mano sulla tonaca: «Caro Abate, non vi è alcun mistero divino. Semplicemente, da fanciullo, il piccolo Cordino ruzzolò nei pressi della canonica, cadendo dritto in un enorme pentolone di Burlite, una sostanza magica che dona il potere della burla continua, dimenticata lì dalle nostre pie donne.»
+>
+> L'Abate sgranò gli occhi, fulminato dalla rivelazione.
+>
+> «Esatto!» concluse il parroco con un occhiolino. «C'è chi nasce sobrio, e chi invece cade nella Burlite per sempre!»
+
+---
+
+*Racconti individuati e riportati: 72 dall'estrazione integrale della chat (19 marzo 2026 – 14 luglio 2026), più 1 inviato direttamente al gruppo dopo la chiusura dell'estrazione (15 luglio 2026).*
