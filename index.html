@@ -267,6 +267,33 @@ footer a{color:var(--chrome-text-soft);}
   color:var(--rubric);
 }
 
+/* Lightbox */
+.zoomable{cursor:zoom-in;}
+.lightbox{
+  position:fixed;inset:0;
+  background:rgba(5,4,3,.92);
+  display:none;
+  align-items:center;justify-content:center;
+  padding:5vh 5vw;
+  z-index:100;
+  cursor:zoom-out;
+}
+.lightbox.is-open{display:flex;}
+.lightbox img{
+  max-width:100%;max-height:100%;
+  box-shadow:0 20px 60px rgba(0,0,0,.6);
+  border:2px solid var(--gold);
+}
+.lightbox-close{
+  position:fixed;
+  top:1rem;right:1.2rem;
+  color:var(--chrome-text);
+  font-size:2rem;
+  line-height:1;
+  text-decoration:none;
+  z-index:101;
+}
+
 /* Back to top */
 .back-to-top{
   position:fixed;
@@ -462,6 +489,11 @@ footer a{color:var(--chrome-text-soft);}
         <h4>L'Orco di Ostrava</h4>
         <p>Titano vagabondo, mago degli ingranaggi.</p>
       </div>
+      <div class="guest-card">
+        <div class="portrait"><img src="immagini-generate/fra-crodino-biondo.jpg" alt="Fra Crodino"></div>
+        <h4>Fra Crodino</h4>
+        <p>Il sosia biondo di Fra Cordino, incrociato in una locanda oltre le mura.</p>
+      </div>
     </div>
   </div>
 </section>
@@ -486,6 +518,35 @@ footer a{color:var(--chrome-text-soft);}
 </footer>
 
 <a class="back-to-top" href="#top" aria-label="Torna in cima alla pagina">↑</a>
+
+<div class="lightbox" id="lightbox" role="dialog" aria-modal="true" aria-label="Immagine ingrandita">
+  <a class="lightbox-close" href="#" aria-label="Chiudi">&times;</a>
+  <img id="lightbox-img" src="" alt="">
+</div>
+
+<script>
+(function(){
+  var lightbox = document.getElementById('lightbox');
+  var lightboxImg = document.getElementById('lightbox-img');
+  function openLightbox(src, alt){
+    lightboxImg.src = src;
+    lightboxImg.alt = alt || '';
+    lightbox.classList.add('is-open');
+  }
+  function closeLightbox(){
+    lightbox.classList.remove('is-open');
+    lightboxImg.src = '';
+  }
+  document.querySelectorAll('.portrait img, .plate img').forEach(function(img){
+    img.classList.add('zoomable');
+    img.addEventListener('click', function(){ openLightbox(img.src, img.alt); });
+  });
+  lightbox.addEventListener('click', closeLightbox);
+  document.addEventListener('keydown', function(e){
+    if (e.key === 'Escape') closeLightbox();
+  });
+})();
+</script>
 
 </body>
 </html>

@@ -54,7 +54,7 @@ La colonna **"Personaggio raffigurato"** è stata aggiunta incrociando indizi vi
 | 7/7/26 | IMG-20260707-WA0012.jpg | Fra Martino — lavanda dei piedi per una partenza, 17:02 | | Gruppo (Abate Elfo, Fra Cordino) (confidenza: alta) |
 | 7/7/26 | IMG-20260707-WA0015.jpg | Fra Martino — la caduta del kolínko, 17:15 | | Gruppo (Fra Cordino, Fra Martino) (confidenza: alta) |
 | 10/7/26 | IMG-20260710-WA0001.jpg | Fra Martino — pellegrinaggio a "Embajador Martini", Argentina, 11:33 | | Fra Martino (confidenza: alta) |
-| 11/7/26 | IMG-20260711-WA0015.jpg | Fra Martino — l'incontro con "Fra Crodino", 21:25 | | Gruppo (Fra Cordino, "Fra Crodino" — gioco di parole non canonico) (confidenza: media) |
+| 11/7/26 | fra-crodino-biondo.jpg | Fra Martino — l'incontro con "Fra Crodino", 21:25 | Sostituisce IMG-20260711-WA0015.jpg (rimossa dall'utente): non e' un'immagine dalla chat originale, ma un ritratto fornito successivamente dall'utente per questo personaggio | Gruppo (Fra Cordino, Fra Crodino) (confidenza: alta, fornita dall'utente) |
 | 14/7/26 | IMG-20260714-WA0007.jpg | Fra Martino — arrivo di Fra Marco da Dama, 16:39 | | Fra Marco da Dama (confidenza: media) |
 
 ## Riepilogo
