@@ -87,7 +87,7 @@ h2{
 .nav .wrap{display:flex;align-items:center;justify-content:space-between;padding:.9rem 1.5rem;}
 .wordmark{color:var(--chrome-text);font-variant-caps:small-caps;letter-spacing:.04em;font-size:1.05rem;text-decoration:none;}
 .nav ul{list-style:none;display:flex;gap:1.4rem;margin:0;padding:0;}
-.nav a{color:var(--chrome-text-soft);text-decoration:none;font-size:.85rem;letter-spacing:.03em;}
+.nav a{color:var(--chrome-text-soft);text-decoration:none;font-size:1rem;letter-spacing:.03em;}
 .nav a:hover{color:var(--chrome-text);}
 
 /* Hero */
@@ -299,6 +299,24 @@ footer a{color:var(--chrome-text-soft);}
   z-index:101;
 }
 
+/* Trading cards */
+.tc-grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(190px,1fr));
+  gap:1.8rem;
+  max-width:840px;
+  margin:0 auto;
+}
+.tc-card{
+  margin:0;
+  border-radius:8px;
+  overflow:hidden;
+  box-shadow:0 14px 34px rgba(0,0,0,.45);
+  transition:transform .2s ease, box-shadow .2s ease;
+}
+.tc-card img{display:block;width:100%;height:auto;}
+.tc-card:hover{transform:translateY(-5px) scale(1.02);box-shadow:0 20px 44px rgba(0,0,0,.5);}
+
 /* Back to top */
 .back-to-top{
   position:fixed;
@@ -333,6 +351,7 @@ footer a{color:var(--chrome-text-soft);}
       <li><a href="#tavole">Tavole</a></li>
       <li><a href="#cronache">Cronache</a></li>
       <li><a href="#protagonisti">Protagonisti</a></li>
+      <li><a href="#trading-cards">Trading Cards</a></li>
       <li><a href="#ospiti">Ospiti</a></li>
       <li><a href="#gioco">Il Gioco</a></li>
     </ul>
@@ -463,6 +482,20 @@ footer a{color:var(--chrome-text-soft);}
   </div>
 </section>
 
+<section id="trading-cards">
+  <div class="wrap on-dark">
+    <p class="kicker">Collezionabili</p>
+    <h2>Trading Cards</h2>
+    <p class="lede">I quattro protagonisti dell'Abbatīa, in una serie di illustrazioni da collezione.</p>
+    <div class="tc-grid">
+      <figure class="tc-card"><img src="trading-cards/fra-martino-tc.png" alt="Fra Martino, trading card, Il Pellegrino Cronista"></figure>
+      <figure class="tc-card"><img src="trading-cards/abate-elfo-tc.png" alt="Abate Elfo, trading card, La Guida Spirituale"></figure>
+      <figure class="tc-card"><img src="trading-cards/fra-cordino-tc.png" alt="Fra Cordino, trading card, Gola e Redenzione"></figure>
+      <figure class="tc-card"><img src="trading-cards/padre-pierre-poulet-tc.png" alt="Padre Pierre Poulet, trading card, Il Custode dello Scriptorium"></figure>
+    </div>
+  </div>
+</section>
+
 <section id="ospiti">
   <div class="wrap on-dark">
     <p class="kicker">Di passaggio</p>
@@ -542,7 +575,7 @@ footer a{color:var(--chrome-text-soft);}
     lightbox.classList.remove('is-open');
     lightboxImg.src = '';
   }
-  document.querySelectorAll('.portrait img, .plate img').forEach(function(img){
+  document.querySelectorAll('.portrait img, .plate img, .tc-card img').forEach(function(img){
     img.classList.add('zoomable');
     img.addEventListener('click', function(){ openLightbox(img.src, img.alt); });
   });
