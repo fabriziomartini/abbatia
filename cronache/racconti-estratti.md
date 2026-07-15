@@ -358,7 +358,7 @@ Immagine collegata: IMG-20260320-WA0012.jpg (stesso mittente, stesso minuto)
 
 ---
 
-### 20/3/26, 18:32-18:36 — Padre Pier Poulet
+### 20/3/26, 18:32-18:36 — Padre Pierre Poulet
 *Nessuna immagine collegata.*
 
 > Vorrei aggiungere che mentre il volgo si abbandona a stolte esultanze per l'avvento della primavera, quasi si trattasse di un trionfo degli antichi culti pagani, il nostro compito, in ABBATĪA, resta ben altro: raccoglierci nel silenzio, prepararci con disciplina e devozione al mistero della Pasqua, rifuggendo da simili vanità mondane che nulla hanno a che vedere con la vera elevazione dello spirito.
@@ -658,7 +658,7 @@ Immagine collegata: IMG-20260327-WA0025.jpg (stesso mittente, stesso minuto)
 
 ---
 
-### 28/3/26, 08:45 — Padre Pier Poulet
+### 28/3/26, 08:45 — Padre Pierre Poulet
 Immagine collegata: IMG-20260328-WA0002.jpg (allegata da Fra Cordino il giorno dopo, 29/3, 09:41)
 
 > *Padre PP* si destò ben prima del canto del gallo — animale peraltro inviso a Fra Martino, il quale non cessava di vagheggiarne una trasfigurazione culinaria in forma di _finanziera piemontese_, con creste e zampe debitamente accomodate —, quando il cielo, ancora avvolto nel suo manto notturno, iniziava appena a schiarirsi, istante dopo istante.

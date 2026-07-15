@@ -4,20 +4,20 @@
 
 Ordinate cronologicamente per data ripresa dal nome file (`IMG-AAAAMMGG-WA####.jpg`). Dove il racconto collegato è stato individuato nella fase 1 (vedi `cronache/racconti-estratti.md`), è indicato con data/mittente/personaggio.
 
-La colonna **"Personaggio raffigurato"** è stata aggiunta incrociando indizi visivi (occhiali = Fra Cordino, saio nero = Abate Elfo, mantello logoro = Il Solitario Acidasco, occhiali scuri = Padre Pier Poulet, ecc. — vedi pattern ricorrenti in fondo) con il contesto già presente in tabella. È una bozza: l'utente che conosce i volti reali dovrà confermarla o correggerla.
+La colonna **"Personaggio raffigurato"** è stata aggiunta incrociando indizi visivi (occhiali = Fra Cordino, saio nero = Abate Elfo, mantello logoro = Il Solitario Acidasco, occhiali scuri = Padre Pierre Poulet, ecc. — vedi pattern ricorrenti in fondo) con il contesto già presente in tabella. È una bozza: l'utente che conosce i volti reali dovrà confermarla o correggerla.
 
 | Data | File | Racconto/contesto collegato | Note | Personaggio raffigurato |
 |---|---|---|---|---|
 | 19/3/26 | IMG-20260319-WA0009.jpg | Abate Elfo — "l'Abate pensieroso", 14:14 | | Abate Elfo (confidenza: alta) |
 | 19/3/26 | IMG-20260319-WA0014.jpg | Abate Elfo — motto "Satis est" di Fra Cordino, 14:32 | DUBBIA — pannello misto foto/IA | Fra Cordino (confidenza: media) |
-| 19/3/26 | IMG-20260319-WA0015.jpg | Abate Elfo — motto "Qualis nox amici" di Padre Pierre Poulet, 14:36 | DUBBIA — pannello misto foto/IA | Padre Pier Poulet (confidenza: media) |
-| 19/3/26 | IMG-20260319-WA0016.jpg | Abate Elfo — l'Abate punisce Padre Pierre Poulet per "ABBATÍA" scritto male, 14:42 | | Gruppo (Abate Elfo, Padre Pier Poulet) (confidenza: media) |
+| 19/3/26 | IMG-20260319-WA0015.jpg | Abate Elfo — motto "Qualis nox amici" di Padre Pierre Poulet, 14:36 | DUBBIA — pannello misto foto/IA | Padre Pierre Poulet (confidenza: media) |
+| 19/3/26 | IMG-20260319-WA0016.jpg | Abate Elfo — l'Abate punisce Padre Pierre Poulet per "ABBATÍA" scritto male, 14:42 | | Gruppo (Abate Elfo, Padre Pierre Poulet) (confidenza: media) |
 | 19/3/26 | IMG-20260319-WA0017.jpg | Abate Elfo — troupe TV intervista Fra Cordino, 14:47 | | Fra Cordino (confidenza: alta) |
 | 19/3/26 | IMG-20260319-WA0024.jpg | Fra Martino — dono del ritratto d'arrivo, 15:25 | | Gruppo (Fra Martino, Abate Elfo, comunità) (confidenza: media) |
 | 19/3/26 | IMG-20260319-WA0027.jpg | Fra Martino — ritratti donati alla comunità, 16:06 | | Abate Elfo (confidenza: alta) |
 | 19/3/26 | IMG-20260319-WA0028.jpg | Fra Martino — ritratti donati alla comunità, 16:06 | | Fra Martino (confidenza: media) |
 | 19/3/26 | IMG-20260319-WA0029.jpg | Fra Martino — ritratti donati alla comunità, 16:06 | | Fra Cordino (confidenza: alta) |
-| 19/3/26 | IMG-20260319-WA0030.jpg | Fra Martino — ritratti donati alla comunità, 16:06 | | Padre Pier Poulet (confidenza: media) |
+| 19/3/26 | IMG-20260319-WA0030.jpg | Fra Martino — ritratti donati alla comunità, 16:06 | | Padre Pierre Poulet (confidenza: media) |
 | 19/3/26 | IMG-20260319-WA0037.jpg | Fra Martino — al porcarium, 20/3 03:14 | | Fra Martino (confidenza: alta) |
 | 19/3/26 | IMG-20260319-WA0038.jpg | Fra Martino — Gineprone scava il laghetto, 18:09 | | Gineprone (confidenza: alta, confermato dall'utente) |
 | 19/3/26 | IMG-20260319-WA0040.jpg | Abate Elfo — mappa/pianta dell'Abbatīa, 19:07 | DUBBIA — mappa in stile pergamena, non un ritratto | Scena/ambientazione (nessun personaggio riconoscibile) |
@@ -28,7 +28,7 @@ La colonna **"Personaggio raffigurato"** è stata aggiunta incrociando indizi vi
 | 20/3/26 | IMG-20260320-WA0025.jpg | Fra Martino — penitenza delle pentole, 21/3 09:14 | | Fra Cordino (confidenza: alta) |
 | 22/3/26 | IMG-20260322-WA0020.jpg | Fra Martino — il pane del mattino, 23/3 08:52 | | Fra Martino (confidenza: media) |
 | 22/3/26 | IMG-20260322-WA0023.jpg | Fra Martino — Fra Cordino tra i porri, 23/3 11:27 | | Fra Cordino (confidenza: alta) |
-| 22/3/26 | IMG-20260322-WA0024.jpg | Fra Martino — Padre Pier Poulet nello scriptorium, 23/3 17:49 | | Padre Pier Poulet (confidenza: media) |
+| 22/3/26 | IMG-20260322-WA0024.jpg | Fra Martino — Padre Pierre Poulet nello scriptorium, 23/3 17:49 | | Padre Pierre Poulet (confidenza: media) |
 | 23/3/26 | IMG-20260323-WA0038.jpg | Fra Martino — l'Abate osserva dalla loggia, 19:08 | | Abate Elfo (confidenza: alta) |
 | 25/3/26 | IMG-20260325-WA0010.jpg | Fra Martino — Fra Cordino al mercato per il sale, 13:29 | | Fra Cordino (confidenza: alta) |
 | 26/3/26 | IMG-20260326-WA0021.jpg | Fra Cordino — bramborák, 18:44 (immagine allegata da Fra Martino) | | Fra Martino (confidenza: media) |
@@ -37,7 +37,7 @@ La colonna **"Personaggio raffigurato"** è stata aggiunta incrociando indizi vi
 | 27/3/26 | IMG-20260327-WA0025.jpg | Fra Martino — Fra Cordino scivola nel laghetto, 17:33 | | Gruppo (Fra Cordino, Abate Elfo) (confidenza: media) |
 | 31/3/26 | IMG-20260331-WA0017.jpg | Fra Martino — il Solitario Acidasco, 23:18 | | Il Solitario Acidasco (confidenza: alta) |
 | 1/4/26 | IMG-20260401-WA0003.jpg | Fra Martino — Gineprone e l'Acidasco, 12:47 | | Il Solitario Acidasco (confidenza: alta) |
-| 2/4/26 | IMG-20260402-WA0001.jpg | Fra Martino — la lavanda dei piedi (Mandatum), 09:43 | | Gruppo (Abate Elfo, Fra Cordino, Padre Pier Poulet) (confidenza: media) |
+| 2/4/26 | IMG-20260402-WA0001.jpg | Fra Martino — la lavanda dei piedi (Mandatum), 09:43 | | Gruppo (Abate Elfo, Fra Cordino, Padre Pierre Poulet) (confidenza: media) |
 | 2/4/26 | IMG-20260402-WA0003.jpg | Fra Martino — processione/Via Crucis, 10:51 | | Fra Cordino (confidenza: media) |
 | 3/4/26 | IMG-20260403-WA0006.jpg | Fra Martino — arrivo di Don Massimetto Catrame, 14:22 | DUBBIA — tono più comico/moderno | Don Massimetto Catrame (confidenza: alta) |
 | 4/4/26 | IMG-20260404-WA0007.jpg | Fra Martino — pellegrinaggio verso Kolín, 12:19 | DUBBIA — potrebbe essere foto reale in costume | Gruppo (Abate Elfo, Fra Martino) (confidenza: alta, confermato dall'utente) |
@@ -45,7 +45,7 @@ La colonna **"Personaggio raffigurato"** è stata aggiunta incrociando indizi vi
 | 5/4/26 | IMG-20260405-WA0004.jpg | Fra Martino — il banchetto del Conte Bonifacio, 09:48 | | Gruppo (Conte Bonifacio, Abate Elfo, Fra Cordino, Fra Martino) (confidenza: media) |
 | 5/4/26 | IMG-20260405-WA0010.jpg | Fra Martino — Don Massimetto e il Barone Gemelli a Nusle, 13:01 | DUBBIA — elementi anacronistici/comici forti | Gruppo (Don Massimetto Catrame, Barone Gemelli il Vanitoso) (confidenza: alta) |
 | 5/4/26 | IMG-20260405-WA0011.jpg | Fra Martino — il Barone Gemelli il Vanitoso, 13:01 | DUBBIA — nessun elemento monastico diretto | Barone Gemelli il Vanitoso (confidenza: alta) |
-| 14/4/26 | IMG-20260414-WA0009.jpg | Fra Cordino — partenza per Bologna, 21:33 (allegata da Fra Martino il giorno dopo) | | Gruppo (Padre Pier Poulet, Fra Cordino, Fra Martino, Abate Elfo) (confidenza: media) |
+| 14/4/26 | IMG-20260414-WA0009.jpg | Fra Cordino — partenza per Bologna, 21:33 (allegata da Fra Martino il giorno dopo) | | Gruppo (Padre Pierre Poulet, Fra Cordino, Fra Martino, Abate Elfo) (confidenza: media) |
 | 31/5/26 | IMG-20260531-WA0009.jpg | Fra Martino — il Conte Bonifacio e la birra di Pilsen, 22:07 | | Conte Bonifacio (confidenza: alta, confermato dall'utente) |
 | 3/6/26 | IMG-20260603-WA0008.jpg | Fra Martino — Don Danilo dei Macerati al "Dar Salmonaro", 20:38 | | Don Danilo dei Macerati (confidenza: media) |
 | 20/6/26 | IMG-20260620-WA0001.jpg | Fra Martino — "il golpe immaginario" di Fra Martino, 00:21 | scherzo fuori-canone su un "colpo di stato" | Fra Martino (confidenza: media) |
@@ -80,7 +80,7 @@ Le 7 immagini a bassa confidenza/non identificate (gruppi di monaci non distingu
 
 - **Fra Cordino** è quasi sempre riconoscibile dagli **occhiali** e da scene legate a cibo/cucina/gola (fame notturna, penitenza delle pentole, orto, mercato del sale, laghetto, banchetti). È il personaggio più facilmente identificabile con certezza in tutto l'indice.
 - **Abate Elfo** indossa quasi sempre un **saio/tonaca nera** (unico tra i protagonisti fissi) ed è spesso in ambientazioni di studio/biblioteca/loggia; in almeno due immagini (WA0319-0027, WA0323-0038) compare persino un cartellino/targa esplicita con scritto "ABATE ELFO", che ha reso quei casi certezze e ha aiutato a calibrare il resto.
-- Un monaco ricorrente con **occhiali da sole scuri** in ambienti di biblioteca/scriptorium (WA0319-0030, WA0322-0024) è stato associato a **Padre Pier Poulet** per coerenza di contesto, ma non ha un tratto fisico descritto esplicitamente in `cronista.md` — è il pattern meno solido tra quelli "ad alta ricorrenza".
+- Un monaco ricorrente con **occhiali da sole scuri** in ambienti di biblioteca/scriptorium (WA0319-0030, WA0322-0024) è stato associato a **Padre Pierre Poulet** per coerenza di contesto, ma non ha un tratto fisico descritto esplicitamente in `cronista.md` — è il pattern meno solido tra quelli "ad alta ricorrenza".
 - **Il Solitario Acidasco** è riconoscibile dal mantello logoro color terra (mai un saio) e da ambientazioni esterne isolate (bosco, frutteto) — le due immagini che lo ritraggono sono tra le più sicure in assoluto.
 - L'immagine con la controfigura comica fuori-canone "Fra Crodino" (WA0711-0015) resta l'unico riferimento scherzoso non legato a un personaggio fisso, mantenuto perché comunque affiancato da Fra Cordino.
 

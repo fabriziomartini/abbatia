@@ -11,7 +11,7 @@ La chat ha **solo quattro partecipanti umani attivi** oltre ai messaggi di siste
 - **Autore C**
 - **Autore D**
 
-Non ci sono altri numeri/nomi nell'intero export. Questo è un dato rilevante: il canone dell'Abbatīa conta sette personaggi fissi (Abate Elfo, Fra Cordino, Gineprone, Padre Pier Poulet, Fra Martino, Fra Marco da Dama, Glenn) ma solo quattro persone reali scrivono in chat — quindi almeno tre personaggi del canone non hanno un "narratore dedicato" e vivono solo come figure di terza persona raccontate dagli altri.
+Non ci sono altri numeri/nomi nell'intero export. Questo è un dato rilevante: il canone dell'Abbatīa conta sette personaggi fissi (Abate Elfo, Fra Cordino, Gineprone, Padre Pierre Poulet, Fra Martino, Fra Marco da Dama, Glenn) ma solo quattro persone reali scrivono in chat — quindi almeno tre personaggi del canone non hanno un "narratore dedicato" e vivono solo come figure di terza persona raccontate dagli altri.
 
 ## 2. Mappatura mittente reale → personaggio canone
 
@@ -22,9 +22,9 @@ Indizi: è il creatore del gruppo e apre quasi ogni arco narrativo con annunci "
 Indizi: assonanza diretta tra il proprio nome anagrafico e il nome del personaggio. Firma esplicitamente "FRA MARTINO" in calce a più messaggi (19/3, 13:32 e 15:25). Narra quasi sempre in prima persona i propri viaggi reali (Bologna, Argentina — "Embajador Martini" — Praga, Boemia) trasfigurandoli in pellegrinaggi di Fra Martino. È l'autore che introduce l'ultimo personaggio nuovo del canone, Fra Marco da Dama (14/7).
 
 ### Autore C → **Fra Cordino** (confidenza molto alta)
-Indizi: assonanza diretta cognome/personaggio. Il primissimo suo racconto (19/3, 13:35) è scritto dal punto di vista di Fra Cordino che accoglie Fra Martino. È inoltre — di gran lunga — il narratore onnisciente più prolifico della chat: scrive la maggioranza dei racconti in terza persona su tutti i personaggi (compresi episodi centrati su Gineprone, sull'Abate, su Padre Pier Poulet), il che lo rende il "cronista" più assiduo del gruppo, oltre che l'interprete di Fra Cordino.
+Indizi: assonanza diretta cognome/personaggio. Il primissimo suo racconto (19/3, 13:35) è scritto dal punto di vista di Fra Cordino che accoglie Fra Martino. È inoltre — di gran lunga — il narratore onnisciente più prolifico della chat: scrive la maggioranza dei racconti in terza persona su tutti i personaggi (compresi episodi centrati su Gineprone, sull'Abate, su Padre Pierre Poulet), il che lo rende il "cronista" più assiduo del gruppo, oltre che l'interprete di Fra Cordino.
 
-### Autore D → **Padre Pier Poulet** (alias "Pierre Poulet"/"Pier Poluet") (confidenza alta)
+### Autore D → **Padre Pierre Poulet** (alias "Pierre Poulet"/"Pier Poluet") (confidenza alta)
 Indizi: assonanza tra il proprio nome anagrafico e il nome del personaggio. Filo narrativo dedicato e coerente: è l'unico che scrive in prima persona dei propri progressi nella traduzione del *Codex Sancti Vlfsi Confessoris* (20/3, 27/3, 3/4), materia che nel racconto di gruppo del 28/3 diventa esplicitamente la disavventura comica di "Padre PP"/Padre Pierre Poulet. Anche gli scambi su "Don PierPollo" (8/6) e sul nome "Pierre Poulet" ↔ vissuto in Portogallo (13/6) confermano l'identificazione con lui stesso.
 
 ## 3. Personaggi del canone SENZA un mittente reale identificabile
