@@ -11,7 +11,7 @@ La chat ha **solo quattro partecipanti umani attivi** oltre ai messaggi di siste
 - **Autore C**
 - **Autore D**
 
-Non ci sono altri numeri/nomi nell'intero export. Questo è un dato rilevante: il canone dell'Abbatīa conta sette personaggi fissi (Abate Elfo, Fra Cordino, Gineprone, Padre Pierre Poulet, Fra Martino, Fra Marco da Dama, Glenn) ma solo quattro persone reali scrivono in chat — quindi almeno tre personaggi del canone non hanno un "narratore dedicato" e vivono solo come figure di terza persona raccontate dagli altri.
+Non ci sono altri numeri/nomi nell'intero export. Questo è un dato rilevante: il canone dell'Abbatīa conta sette personaggi fissi (Abate Elfo, Fra Cordino, Gineprone, Padre Pierre Poulet, Fra Martino, Fra Marco da Dama, Fra Glenn Grant) ma solo quattro persone reali scrivono in chat — quindi almeno tre personaggi del canone non hanno un "narratore dedicato" e vivono solo come figure di terza persona raccontate dagli altri.
 
 ## 2. Mappatura mittente reale → personaggio canone
 
@@ -31,7 +31,7 @@ Indizi: assonanza tra il proprio nome anagrafico e il nome del personaggio. Filo
 
 - **Gineprone** — non risulta mai impersonato in prima persona da nessuno dei quattro mittenti reali. Compare solo come personaggio di terza persona nei racconti altrui (soprattutto di Autore C). Non è quindi possibile stabilire con certezza "chi è" Gineprone tra i mittenti: sembra essere un personaggio collettivo/di servizio della narrazione, non l'alter ego di un singolo autore.
 - **Fra Marco da Dama** — compare per la prima (e unica) volta nell'ultimo giorno coperto dalla chat (14/7), introdotto da Autore B in terza persona come personaggio nuovo ("L'Ospitaliere... giunto dalle foreste casentinesi"). Autore B lo *narra*, ma già impersona Fra Martino: non ci sono elementi per dire che Fra Marco da Dama sia il "secondo alter ego" di uno dei quattro, resta un personaggio introdotto ma non ancora rivendicato da un narratore dedicato.
-- **Glenn** — **non compare mai, in nessuna forma, nell'intera chat.** È verificato con una ricerca a tappeto sul testo completo: nessuna occorrenza di "Glenn", "Cellarista", "danese/danesi" riferita a un personaggio. Il personaggio esiste solo nel system prompt `prompts/cronista.md`, ma non ha origine nella chat reale — è quindi materiale aggiunto successivamente (probabilmente elaborato a parte con Gemini) e non ricavabile dalle conversazioni del gruppo.
+- **Fra Glenn Grant** — **non compare mai, in nessuna forma, nell'intera chat.** È verificato con una ricerca a tappeto sul testo completo: nessuna occorrenza di "Glenn", "Cellarista", "danese/danesi" riferita a un personaggio. Il personaggio esiste solo nel system prompt `prompts/cronista.md`, ma non ha origine nella chat reale — è quindi materiale aggiunto successivamente (probabilmente elaborato a parte con Gemini) e non ricavabile dalle conversazioni del gruppo. Il nome completo (con il cognome "Grant", gioco di parole sul whisky Glen Grant) è stato fissato in un secondo momento, fuori dalla chat originale.
 
 ## 4. Nuovi personaggi emersi nella chat, non presenti in `prompts/cronista.md`
 
@@ -81,7 +81,7 @@ Scostamenti/aggiunte non ancora catturate nel system prompt:
 - Il system prompt non menziona affatto gli "ospiti di passaggio" ricorrenti (Don Massimetto Catrame, Barone Gemelli, Fra Cipolla, Robertino, Solitario Acidasco, Conte Bonifacio, Don Danilo) che nella chat reale sono un meccanismo narrativo tanto frequente quanto i sei personaggi fissi.
 - Il system prompt non menziona la commistione volontaria di anacronismi (IA, calcio, politica contemporanea) che è invece un tratto di stile ricorrente e "autorizzato" dal gruppo stesso (i partecipanti ci scherzano sopra apertamente, es. "Che ciula Gemini, gli avevo detto armi medievali, cosa c'entrano i fucili?!", 30/3).
 - Manca nel system prompt qualunque riferimento alla componente da "romanzo d'assedio"/minaccia esterna crescente descritta al punto 6, che pure è presente e in crescendo nell'ultimo terzo della chat.
-- **Glenn** è nel system prompt ma non ha alcuna base nella chat: se si vuole mantenerlo nel canone va trattato come personaggio "di riserva" mai ancora attivato nella cronaca reale, oppure va chiarito con l'utente se è materiale da un'altra fonte.
+- **Fra Glenn Grant** è nel system prompt ma non ha alcuna base nella chat: è stato mantenuto nel canone e ha ricevuto un nome completo e una prima cronaca (vedi `bozze.md`).
 
 ## 8. Nota sul materiale escluso
 
